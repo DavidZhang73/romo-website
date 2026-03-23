@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation - Jiahao Zhang et al.">
+  <meta name="description" content="RoMo is a large-scale human motion dataset with rich captions, a 3-level semantic taxonomy, and taxonomy-aware filtering for stronger motion generation.">
+  <meta name="keywords" content="human motion generation, motion dataset, semantic taxonomy, text-to-motion, generative modeling, computer vision, 3D human motion, motion understanding">
+  <meta name="author" content="Jiahao Zhang, Joseph Liu, Young-Yoon Lee, Seonghyeon Moon, Victor Zordan, Guy Tevet, C. Karen Liu, Stephen Gould, Oren Jacob, Haomiao Jiang, Mubbasir Kapadia, Yizhak Ben-Shabat">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="RoMo Project Page">
+  <meta property="og:title" content="RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation">
+  <meta property="og:description" content="RoMo is a large-scale human motion dataset with rich captions, a 3-level semantic taxonomy, and taxonomy-aware filtering for stronger motion generation.">
+  <meta property="og:url" content="https://davidzhang73.github.io/romo-website/">
+  <meta property="article:author" content="Jiahao Zhang">
+  <meta property="article:section" content="Research">
+  <meta property="article:tag" content="human motion generation">
+  <meta property="article:tag" content="motion dataset">
+  <meta property="article:tag" content="semantic taxonomy">
+
+  <!-- Academic/Research Specific -->
+  <meta name="citation_title" content="RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation">
+  <meta name="citation_author" content="Zhang, Jiahao">
+  <meta name="citation_author" content="Liu, Joseph">
+  <meta name="citation_author" content="Lee, Young-Yoon">
+  <meta name="citation_author" content="Moon, Seonghyeon">
+  <meta name="citation_author" content="Zordan, Victor">
+  <meta name="citation_author" content="Tevet, Guy">
+  <meta name="citation_author" content="Liu, C. Karen">
+  <meta name="citation_author" content="Gould, Stephen">
+  <meta name="citation_author" content="Jacob, Oren">
+  <meta name="citation_author" content="Jiang, Haomiao">
+  <meta name="citation_author" content="Kapadia, Mubbasir">
+  <meta name="citation_author" content="Ben-Shabat, Yizhak">
+  <meta name="citation_publication_date" content="2026">
+  <meta name="citation_conference_title" content="CVPR 2026">
+
+  <!-- Additional SEO -->
+  <meta name="theme-color" content="#2563eb">
+  <meta name="msapplication-TileColor" content="#2563eb">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://ajax.googleapis.com">
+  <link rel="preconnect" href="https://documentcloud.adobe.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+
+  <title>RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation - Jiahao Zhang et al.</title>
+
+  <!-- Favicon and App Icons -->
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link rel="apple-touch-icon" href="static/images/favicon.ico">
+
+  <!-- Critical CSS - Load synchronously -->
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <!-- Non-critical CSS - Load asynchronously -->
+  <link rel="preload" href="static/css/bulma-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="static/css/bulma-slider.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="static/css/fontawesome.all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+  <!-- Fallback for browsers that don't support preload -->
+  <noscript>
+    <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  </noscript>
+
+  <!-- Fonts - Optimized loading -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Defer non-critical JavaScript -->
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/bulma-carousel.min.js"></script>
+  <script defer src="static/js/bulma-slider.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+
+  <!-- Structured Data for Academic Papers -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation",
+    "description": "RoMo is a large-scale human motion dataset with rich captions, a 3-level semantic taxonomy, and taxonomy-aware filtering for stronger motion generation.",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Jiahao Zhang",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Australian National University; Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Joseph Liu",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Young-Yoon Lee",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Seonghyeon Moon",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Victor Zordan",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Guy Tevet",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Stanford University"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "C. Karen Liu",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Stanford University"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Stephen Gould",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Australian National University"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Oren Jacob",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Haomiao Jiang",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Mubbasir Kapadia",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox; Rutgers University"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Yizhak Ben-Shabat",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Roblox"
+        }
+      }
+    ],
+    "datePublished": "2026",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+    },
+    "url": "https://davidzhang73.github.io/romo-website/",
+    "keywords": ["human motion generation", "motion dataset", "semantic taxonomy", "text-to-motion", "computer vision"],
+    "abstract": "Success in generative modeling across language, image, and video demonstrates that large, well-curated datasets are the key driver for building capable models. 3D human motion, however, has lagged behind, constrained by an unsatisfying choice between small, high-fidelity motion capture datasets and large-scale in-the-wild collections dominated by static or low-quality sequences. We introduce RoMo, a rich, large-scale, carefully curated dataset of in-the-wild human motions that resolves these tradeoffs. To ensure quality, we introduce a taxonomy-aware filtering pipeline that aggressively removes static and artifact-prone sequences. Every sequence is annotated with detailed captions and organized by a novel three-level semantic taxonomy. This hierarchical structure enables fine-grained, per-category evaluation that reveals model strengths and weaknesses obscured by global metrics. We demonstrate that models trained on RoMo achieve state-of-the-art fidelity and diversity while gaining a superior understanding of complex, subtle text prompts. Finally, we release the Motion Toolbox to standardize metrics, data conversion, and visualization, establishing a foundation for reproducible and interpretable motion generation research.",
+    "isAccessibleForFree": true,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "mainEntity": {
+      "@type": "WebPage",
+      "@id": "https://davidzhang73.github.io/romo-website/"
+    },
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "Human Motion Generation"
+      },
+      {
+        "@type": "Thing",
+        "name": "Large-Scale Motion Datasets"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Website Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "RoMo Project Page",
+    "url": "https://davidzhang73.github.io/romo-website/",
+    "about": "RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation"
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Scroll to Top Button -->
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <main id="main-content">
+    <section class="hero">
+      <div class="hero-body">
+        <div class="container is-max-desktop">
+          <div class="columns is-centered">
+            <div class="column has-text-centered">
+              <h1 class="title is-1 publication-title" style="font-size: 4rem;">
+                RoMo
+              </h1>
+              <h1 class="title">A Large-Scale, <span style="text-decoration: underline;">R</span>ichly <span style="text-decoration: underline;">O</span>rganized Dataset and Semantic Taxonomy for Human <span style="text-decoration: underline;">Mo</span>tion Generation</h1>
+              <div class="is-size-5 publication-authors">
+                <span class="author-block"><a href="https://academic.davidz.cn/" target="_blank" rel="noopener noreferrer">Jiahao Zhang</a><sup>1,2</sup>,</span>
+                <span class="author-block"><a href="https://scholar.google.com/citations?user=X2CoK-8AAAAJ" target="_blank" rel="noopener noreferrer">Joseph Liu</a><sup>2</sup>,</span>
+                <span class="author-block"><a href="https://scholar.google.com/citations?user=LdA0DacAAAAJ" target="_blank" rel="noopener noreferrer">Young-Yoon Lee</a><sup>2</sup>,</span>
+                <span class="author-block"><a href="https://moonsh.github.io/" target="_blank" rel="noopener noreferrer">Seonghyeon Moon</a><sup>2</sup>,</span>
+                <span class="author-block"><a href="https://people.computing.clemson.edu/~vbz/" target="_blank" rel="noopener noreferrer">Victor Zordan</a><sup>2</sup>,</span>
+                <span class="author-block"><a href="https://guytevet.github.io/" target="_blank" rel="noopener noreferrer">Guy Tevet</a><sup>3</sup>,</span>
+                <span class="author-block"><a href="https://cs.stanford.edu/people/karenliu/Home.html" target="_blank" rel="noopener noreferrer">C. Karen Liu</a><sup>3</sup>,</span>
+                <span class="author-block"><a href="https://users.cecs.anu.edu.au/~sgould/" target="_blank" rel="noopener noreferrer">Stephen Gould</a><sup>1</sup>,</span>
+                <span class="author-block"><a href="https://about.me/orenjacob" target="_blank" rel="noopener noreferrer">Oren Jacob</a><sup>2</sup>,</span>
+                <span class="author-block"><a href="https://scholar.google.com/citations?user=RB6RIxkAAAAJ" target="_blank" rel="noopener noreferrer">Haomiao Jiang</a><sup>2</sup>,</span>
+                <span class="author-block"><a href="https://scholar.google.com/citations?user=xhkzmycAAAAJ" target="_blank" rel="noopener noreferrer">Mubbasir Kapadia</a><sup>2,4</sup>,</span>
+                <span class="author-block"><a href="https://www.itzikbs.com/" target="_blank" rel="noopener noreferrer">Yizhak Ben-Shabat</a><sup>2</sup></span>
+              </div>
+
+              <div class="is-size-5 publication-authors">
+                <span class="author-block"><sup>1</sup>Australian National University</span>
+                <span class="author-block"><sup>2</sup>Roblox</span>
+                <span class="author-block"><sup>3</sup>Stanford University</span>
+                <span class="author-block"><sup>4</sup>Rutgers University</span>
+              </div>
+
+              <div class="is-size-5 publication-authors">
+                <span class="author-block">CVPR 2026</span>
+              </div>
+
+              <div class="column has-text-centered">
+                <div class="publication-links">
+                  <span class="link-block">
+                    <a href="#" onclick="return false;" aria-disabled="true" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="ai ai-arxiv"></i>
+                      </span>
+                      <span>ArXiv (Comming Soon)</span>
+                    </a>
+                  </span>
+                  <span class="link-block">
+                    <a href="#" onclick="return false;" aria-disabled="true" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face logo" class="button-icon-image">
+                      </span>
+                      <span>Dataset (Comming Soon)</span>
+                    </a>
+                  </span>
+                  <span class="link-block">
+                    <a href="#" onclick="return false;" aria-disabled="true" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fab fa-github"></i>
+                      </span>
+                      <span>Motion Toolbox (Comming Soon)</span>
+                    </a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="hero teaser">
+      <div class="container is-max-desktop">
+        <div class="hero-body">
+          <div class="romo-teaser-video">
+            <video
+              class="publication-video-player"
+              controls
+              playsinline
+              preload="metadata"
+              poster="static/videos/RoMo-teaser.jpg"
+            >
+              <source src="static/videos/RoMo.mp4" type="video/mp4">
+              <track
+                kind="subtitles"
+                src="static/videos/RoMo.vtt"
+                srclang="en"
+                label="English"
+              >
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section hero is-light" id="abstract">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <h2 class="title is-3">Abstract</h2>
+            <div class="content has-text-justified">
+              <p>
+                Success in generative modeling across language, image, and video demonstrates that large, well-curated datasets are the key driver for building capable models. 3D human motion, however, has lagged behind, constrained by an unsatisfying choice between small, high-fidelity motion capture datasets and large-scale in-the-wild collections dominated by static or low-quality sequences.
+              </p>
+              <p>
+                We introduce <strong>RoMo</strong>, a rich, large-scale, carefully curated dataset of in-the-wild human motions that resolves these tradeoffs. To ensure quality, we introduce a taxonomy-aware filtering pipeline that aggressively removes static and artifact-prone sequences. Every sequence is annotated with detailed captions and organized by a novel three-level semantic taxonomy. This hierarchical structure enables fine-grained, per-category evaluation that reveals model strengths and weaknesses obscured by global metrics.
+              </p>
+              <p>
+                We demonstrate that models trained on RoMo achieve state-of-the-art fidelity and diversity while gaining a superior understanding of complex, subtle text prompts. Finally, we release the Motion Toolbox to standardize metrics, data conversion, and visualization, establishing a foundation for reproducible and interpretable motion generation research.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="BibTeX">
+      <div class="container is-max-desktop content">
+        <div class="bibtex-header">
+          <h2 class="title">BibTeX</h2>
+          <button class="copy-bibtex-btn" onclick="copyBibTeX()" title="Copy BibTeX to clipboard">
+            <i class="fas fa-copy"></i>
+            <span class="copy-text">Copy</span>
+          </button>
+        </div>
+        <pre id="bibtex-code"><code>@inproceedings{Zhang2026RoMo,
+  author    = {Zhang, Jiahao and Liu, Joseph and Lee, Young-Yoon and Moon, Seonghyeon and Zordan, Victor and Tevet, Guy and Liu, Karen and Gould, Stephen and Jacob, Oren and Jiang, Haomiao and Kapadia, Mubbasir and Ben-Shabat, Yizhak},
+  title     = {RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation},
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2026},
+}</code></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page. <br> This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Statcounter tracking code -->
+  <!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+  <!-- End of Statcounter Code -->
+
+</body>
+</html>
