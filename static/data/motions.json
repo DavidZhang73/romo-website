@@ -1,0 +1,2169 @@
+[
+  {
+    "file": "static/models/Agriculture-Irrigation-Systems-0.glb",
+    "category": "Agriculture",
+    "subcategory": "Irrigation Systems",
+    "atomicAction": "Step over irrigation lines",
+    "caption": "A man walks across a field with irrigation lines, stepping carefully over the hoses.",
+    "captions": [
+      "A man walks across a field with irrigation lines, stepping carefully over the hoses.",
+      "The man walks slowly through the field, stepping over black irrigation pipes laid out in rows.",
+      "A man in a white shirt and jeans walks across a grassy field, stepping over black irrigation hoses.",
+      "A man walks across a field, carefully stepping over the black irrigation lines on the ground.",
+      "The man walks through a field, stepping over the irrigation lines as he moves forward."
+    ],
+    "dynamicScore": "0.9619",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Agriculture-Poultry-Management-1.glb",
+    "category": "Agriculture",
+    "subcategory": "Poultry Management",
+    "atomicAction": "Point at water barrel",
+    "caption": "A man walks from the front of a chicken coop to its side, gesturing with his hands as he talks, then stops and points at a water barrel next to the coop.",
+    "captions": [
+      "A man walks from the front of a chicken coop to its side, gesturing with his hands as he talks, then stops and points at a water barrel next to the coop.",
+      "The man moves along the side of the chicken coop, using hand gestures while speaking, and then points to a water container near the structure.",
+      "Walking beside the coop, the man talks and gestures, eventually stopping to point at a large barrel connected to the coop's system.",
+      "A man walks along the outside of a chicken coop, talking and using hand movements, then stops and gestures toward a water barrel positioned next to the coop.",
+      "The man walks from the front to the side of the chicken coop, speaking and gesturing, and then points at a water barrel connected to the coop."
+    ],
+    "dynamicScore": "1.5995",
+    "sizeKB": 508.6
+  },
+  {
+    "file": "static/models/Agriculture-Soil-Management-2.glb",
+    "category": "Agriculture",
+    "subcategory": "Soil Management",
+    "atomicAction": "Push tiller",
+    "caption": "A man walks across a plowed field, pushing a wheel hoe in front of him.",
+    "captions": [
+      "A man walks across a plowed field, pushing a wheel hoe in front of him.",
+      "The man moves steadily across the tilled soil, pulling a small tiller behind him as he walks.",
+      "A person walks from right to left through a large, open field, dragging a metal gardening tool with wheels.",
+      "A man in a green shirt and cap walks across a field of dark soil, using a hand-pushed tiller to cultivate the ground.",
+      "Walking through a large, harvested field, a man pushes a small tiller, breaking up the soil as he moves."
+    ],
+    "dynamicScore": "0.9839",
+    "sizeKB": 472.3
+  },
+  {
+    "file": "static/models/Animals-Animal-Exercise-0.glb",
+    "category": "Animals",
+    "subcategory": "Animal Exercise",
+    "atomicAction": "Walk around dog",
+    "caption": "A man walks in a circle around a dog standing on a platform.",
+    "captions": [
+      "A man walks in a circle around a dog standing on a platform.",
+      "A man slowly walks around a dog that's standing still on a small black platform.",
+      "A man circles a dog that is standing on a platform, moving in a slow, deliberate pattern.",
+      "The man walks in a steady circle around the dog, which remains on the platform.",
+      "A man walks in a circle around a dog that is standing on a platform, maintaining a consistent distance."
+    ],
+    "dynamicScore": "0.8641",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Animals-Dog-Interaction-1.glb",
+    "category": "Animals",
+    "subcategory": "Dog Interaction",
+    "atomicAction": "Walk in circle around dog",
+    "caption": "A man walks in a circle around a dog sitting on a platform.",
+    "captions": [
+      "A man walks in a circle around a dog sitting on a platform.",
+      "The man moves in a slow, steady circle around the dog, keeping his hands clasped in front of him.",
+      "A man stands in a grassy field and walks in a complete circle around a dog that is sitting on a black platform.",
+      "The man walks in a circle around the dog, maintaining a consistent distance and pace as the dog remains seated.",
+      "A man circles a dog that is sitting on a platform, moving from the right side of the frame to the left, then back around."
+    ],
+    "dynamicScore": "0.8061",
+    "sizeKB": 462.9
+  },
+  {
+    "file": "static/models/Animals-Horse-Training-2.glb",
+    "category": "Animals",
+    "subcategory": "Horse Training",
+    "atomicAction": "Guide horse with stick",
+    "caption": "A person walks around a horse in a circular pen, using a long stick to guide its movement while the horse walks slowly in response.",
+    "captions": [
+      "A person walks around a horse in a circular pen, using a long stick to guide its movement while the horse walks slowly in response.",
+      "A woman moves in a circle around a horse, holding a stick and directing the horse to walk along the edge of the enclosure.",
+      "A person stands in a sandy arena, using a stick to lead a horse in a slow, controlled walk around the perimeter.",
+      "The person circles the horse, using a long pole to encourage it to move forward and maintain a steady pace along the fence.",
+      "A woman walks in a circle, guiding a horse with a stick as it follows her around the edge of the pen."
+    ],
+    "dynamicScore": "0.7416",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Art-Photography-0.glb",
+    "category": "Art",
+    "subcategory": "Photography",
+    "atomicAction": "Hold picture",
+    "caption": "A woman walks toward a large wooden shelving unit, reaches in, and pulls out a framed picture before turning to face the room.",
+    "captions": [
+      "A woman walks toward a large wooden shelving unit, reaches in, and pulls out a framed picture before turning to face the room.",
+      "The woman moves to the built-in shelves, takes down a painting, and stands holding it, looking at it briefly.",
+      "She walks over to the closet area, removes a picture from a shelf, and holds it in front of her.",
+      "Approaching the wooden storage unit, the woman retrieves a framed artwork and holds it as she stands in front of the shelves.",
+      "The woman walks to the shelving unit, pulls out a picture, and holds it while standing in front of the closet space."
+    ],
+    "dynamicScore": "0.7399",
+    "sizeKB": 517.2
+  },
+  {
+    "file": "static/models/Art-Murals-1.glb",
+    "category": "Art",
+    "subcategory": "Murals",
+    "atomicAction": "Touch poster",
+    "caption": "A man in a red shirt walks along a wall, touching and pointing at framed movie posters while a black dog follows behind him.",
+    "captions": [
+      "A man in a red shirt walks along a wall, touching and pointing at framed movie posters while a black dog follows behind him.",
+      "The man moves from right to left, gesturing toward the wall art and speakers as he walks through the room.",
+      "He walks slowly, extending his arm to touch the wall and then pointing at a poster, with his dog walking beside him.",
+      "A man walks down a hallway, pausing to touch and gesture at posters on the wall, with a dog trailing behind.",
+      "As he walks, the man reaches out to touch a speaker and then points at a poster, moving along the wall with his dog nearby."
+    ],
+    "dynamicScore": "0.5268",
+    "sizeKB": 522.3
+  },
+  {
+    "file": "static/models/Art-Graffiti-2.glb",
+    "category": "Art",
+    "subcategory": "Graffiti",
+    "caption": "A man in a cap and t-shirt bends over, spraying yellow paint in a vertical pattern on a blue surface with a spray can.",
+    "captions": [
+      "A man in a cap and t-shirt bends over, spraying yellow paint in a vertical pattern on a blue surface with a spray can."
+    ],
+    "dynamicScore": "0.1875",
+    "sizeKB": 520.7
+  },
+  {
+    "file": "static/models/Assembly-Kitting-Preparation-0.glb",
+    "category": "Assembly",
+    "subcategory": "Kitting Preparation",
+    "atomicAction": "Place item in box",
+    "caption": "A worker in a high-vis jacket pushes a cart through a warehouse, stopping at a shelving unit to retrieve an item from a bin and then placing it into a box on the cart before moving on.",
+    "captions": [
+      "A worker in a high-vis jacket pushes a cart through a warehouse, stopping at a shelving unit to retrieve an item from a bin and then placing it into a box on the cart before moving on.",
+      "A person in a bright yellow jacket walks along a shelf unit, using a cart to collect items from labeled bins, placing them into a box as they go.",
+      "A worker pushes a cart with a box, stops at a rack of bins, picks an item from a bin illuminated by a green light, and puts it in the box before continuing.",
+      "A man in a reflective jacket pushes a cart, stops at a shelving station, takes an item from a glowing green bin, and places it in a box on the cart.",
+      "A worker in a high-visibility jacket moves a cart along a storage rack, selecting items from illuminated bins and placing them into a box on the cart."
+    ],
+    "dynamicScore": "0.8334",
+    "sizeKB": 528.5
+  },
+  {
+    "file": "static/models/Assembly-Medical-Device-Assembly-1.glb",
+    "category": "Assembly",
+    "subcategory": "Medical Device Assembly",
+    "atomicAction": "Position bed rail",
+    "caption": "A man picks up a long, dark brown bed rail and carries it across the room, positioning it near a hospital bed frame on the floor.",
+    "captions": [
+      "A man picks up a long, dark brown bed rail and carries it across the room, positioning it near a hospital bed frame on the floor.",
+      "The man lifts a half rail from the floor, carries it a few steps, and holds it up while looking at the bed frame.",
+      "A person walks while holding a large, rectangular bed rail, then stops and prepares to attach it to the bed frame.",
+      "A man grabs a hospital bed half rail, walks with it in his hands, and positions it over the metal bed base.",
+      "The man picks up a dark-colored half rail, walks toward the bed frame, and holds it vertically as if preparing to assemble it."
+    ],
+    "dynamicScore": "0.8202",
+    "sizeKB": 486.7
+  },
+  {
+    "file": "static/models/Assembly-Outdoor-Equipment-Assembly-2.glb",
+    "category": "Assembly",
+    "subcategory": "Outdoor Equipment Assembly",
+    "atomicAction": "Adjust tent poles",
+    "caption": "A man walks around a tent, adjusting its poles and checking its structure.",
+    "captions": [
+      "A man walks around a tent, adjusting its poles and checking its structure.",
+      "The man moves around the tent, making adjustments to the frame and ensuring it's properly set up.",
+      "He walks around the tent, touching and adjusting the poles to secure the setup.",
+      "A man steps around the tent, making sure the poles are correctly positioned and stable.",
+      "The man walks to the side of the tent, then moves to the front, adjusting the poles and checking the tent's stability."
+    ],
+    "dynamicScore": "0.8922",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Aviation-Aviation-Training-0.glb",
+    "category": "Aviation",
+    "subcategory": "Aviation Training",
+    "atomicAction": "Point to aircraft components",
+    "caption": "A man walks along the side of a small airplane, gesturing with his hands as he speaks, occasionally pointing to different parts of the aircraft.",
+    "captions": [
+      "A man walks along the side of a small airplane, gesturing with his hands as he speaks, occasionally pointing to different parts of the aircraft.",
+      "The man moves beside the plane, using hand gestures to emphasize points while explaining features of the aircraft.",
+      "Walking from the rear to the front of the plane, the man gestures toward various components, appearing to give a detailed explanation.",
+      "A man walks alongside a small white plane, pointing and making hand movements as if describing its features.",
+      "The man strolls past the airplane, using his hands to highlight different areas of the aircraft while speaking."
+    ],
+    "dynamicScore": "0.7714",
+    "sizeKB": 554.3
+  },
+  {
+    "file": "static/models/Aviation-Aircraft-Inspection-1.glb",
+    "category": "Aviation",
+    "subcategory": "Aircraft Inspection",
+    "atomicAction": "Inspect aircraft wing",
+    "caption": "A man in a safety vest walks along the wing of a small plane, holding papers and looking down as he moves.",
+    "captions": [
+      "A man in a safety vest walks along the wing of a small plane, holding papers and looking down as he moves.",
+      "A man in a high-vis vest walks beside a white aircraft, checking its wing while holding documents.",
+      "A man walks from left to right along a small plane's wing, holding papers and inspecting the aircraft.",
+      "A man in a yellow safety vest walks slowly next to a white airplane, looking at the wing and holding a clipboard.",
+      "A man walks along the side of a small plane on the tarmac, holding papers and examining the wing as he goes."
+    ],
+    "dynamicScore": "0.8151",
+    "sizeKB": 459.0
+  },
+  {
+    "file": "static/models/Aviation-Aircraft-Maintenance-2.glb",
+    "category": "Aviation",
+    "subcategory": "Aircraft Maintenance",
+    "atomicAction": "Touch airplane wing",
+    "caption": "A man stands on an airport tarmac, reaching up to touch and point at the wing of a small airplane while holding a tool, then walks along the wing while gesturing and talking.",
+    "captions": [
+      "A man stands on an airport tarmac, reaching up to touch and point at the wing of a small airplane while holding a tool, then walks along the wing while gesturing and talking.",
+      "The man moves along the side of the plane's wing, using his hands to indicate different parts of the wing structure while holding a tool in one hand.",
+      "A man walks beside the wing of a small plane, repeatedly reaching up to touch and point at the wing while holding a tool, as if explaining its features.",
+      "Standing on the tarmac, the man gestures toward the airplane wing, touching it and pointing at various sections while holding a tool and moving along its length.",
+      "The man walks along the wing, using his hands to touch and point at different areas while holding a tool, appearing to demonstrate or explain the wing's components."
+    ],
+    "dynamicScore": "0.7128",
+    "sizeKB": 552.0
+  },
+  {
+    "file": "static/models/Child-Care-Child-Safety-0.glb",
+    "category": "Child Care",
+    "subcategory": "Child Safety",
+    "atomicAction": "Hold wall",
+    "caption": "A baby walks unsteadily toward a door, then turns and uses the wall for support while standing.",
+    "captions": [
+      "A baby walks unsteadily toward a door, then turns and uses the wall for support while standing.",
+      "The baby takes a few wobbly steps forward, then turns and grabs the wall to steady themselves.",
+      "A toddler moves slowly across the floor, reaches the wall, and holds on for balance.",
+      "The child walks a short distance, then turns sideways and places a hand on the wall to keep from falling.",
+      "A baby walks toward a door, stumbles slightly, and uses the wall to support their weight as they stand."
+    ],
+    "dynamicScore": "0.5352",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Child-Care-Playtime-Supervision-1.glb",
+    "category": "Child Care",
+    "subcategory": "Playtime Supervision",
+    "caption": "A young child stands on a rug, shifting her weight and stepping slightly as she watches a hand holding a red object.",
+    "captions": [
+      "A young child stands on a rug, shifting her weight and stepping slightly as she watches a hand holding a red object."
+    ],
+    "dynamicScore": "0.4990",
+    "sizeKB": 450.8
+  },
+  {
+    "file": "static/models/Child-Care-Child-Seat-Installation-2.glb",
+    "category": "Child Care",
+    "subcategory": "Child Seat Installation",
+    "atomicAction": "Attach car seat to stroller",
+    "caption": "A woman bends down and places a baby car seat onto a stroller frame.",
+    "captions": [
+      "A woman bends down and places a baby car seat onto a stroller frame.",
+      "The woman lowers the car seat from her hands and positions it onto the stroller's base.",
+      "She holds the car seat, then bends at the knees to carefully attach it to the stroller frame.",
+      "Bending forward, the woman maneuvers the car seat into place on the stroller.",
+      "The woman kneels slightly and fits the car seat onto the stroller, securing it in position."
+    ],
+    "dynamicScore": "0.5171",
+    "sizeKB": 460.2
+  },
+  {
+    "file": "static/models/Communication-Public-Speaking-0.glb",
+    "category": "Communication",
+    "subcategory": "Public Speaking",
+    "caption": "A man stands at a podium, speaking into a microphone while making hand gestures.",
+    "captions": [
+      "A man stands at a podium, speaking into a microphone while making hand gestures."
+    ],
+    "dynamicScore": "0.2539",
+    "sizeKB": 551.6
+  },
+  {
+    "file": "static/models/Communication-Nonverbal-Communication-1.glb",
+    "category": "Communication",
+    "subcategory": "Nonverbal Communication",
+    "caption": "A person walks forward along a paved path, holding a phone, and stops near some green plants while looking at the camera.",
+    "captions": [
+      "A person walks forward along a paved path, holding a phone, and stops near some green plants while looking at the camera."
+    ],
+    "dynamicScore": "0.2038",
+    "sizeKB": 482.8
+  },
+  {
+    "file": "static/models/Communication-Presentation-2.glb",
+    "category": "Communication",
+    "subcategory": "Presentation",
+    "caption": "A man stands on stage, gesturing with both hands as he speaks, moving his arms in expressive motions while holding a small device.",
+    "captions": [
+      "A man stands on stage, gesturing with both hands as he speaks, moving his arms in expressive motions while holding a small device."
+    ],
+    "dynamicScore": "0.2089",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Construction-Flooring-Installation-0.glb",
+    "category": "Construction",
+    "subcategory": "Flooring Installation",
+    "atomicAction": "Measure floor",
+    "caption": "A man in a blue shirt and tool belt uses a tape measure to mark a line on the floor, then kneels down to make a precise measurement and write on a piece of paper.",
+    "captions": [
+      "A man in a blue shirt and tool belt uses a tape measure to mark a line on the floor, then kneels down to make a precise measurement and write on a piece of paper.",
+      "The man pulls out a tape measure, walks across the room, and extends it along the wall, then kneels and marks the floor while referencing his notes.",
+      "A worker measures the floor with a tape measure, walks to a different spot, and kneels to mark a point on the floor with a pen while looking at a paper.",
+      "The man pulls a tape measure from his belt, stretches it across the floor, walks to the other end, and then kneels to mark the floor and record measurements.",
+      "A person in a blue shirt measures the floor with a tape measure, moves to another position, and kneels to make a mark on the floor while writing on a notepad."
+    ],
+    "dynamicScore": "0.9479",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Construction-Drywall-1.glb",
+    "category": "Construction",
+    "subcategory": "Drywall",
+    "atomicAction": "Mark gypsum board",
+    "caption": "A man measures and marks a large sheet of gypsum board against a wall using a long ruler and a pencil.",
+    "captions": [
+      "A man measures and marks a large sheet of gypsum board against a wall using a long ruler and a pencil.",
+      "The man bends over, carefully aligning a ruler along the edge of a large board and drawing a line with a pencil.",
+      "He moves along the side of the board, using a long measuring tool to mark a straight line for cutting.",
+      "A person stands beside a large board, using a ruler and a pencil to make precise markings along the edge.",
+      "The man uses a long ruler to measure and mark a line on a large gypsum board, preparing it for a cut."
+    ],
+    "dynamicScore": "1.2204",
+    "sizeKB": 466.0
+  },
+  {
+    "file": "static/models/Construction-Electrical-Work-2.glb",
+    "category": "Construction",
+    "subcategory": "Electrical Work",
+    "atomicAction": "Point at device",
+    "caption": "A man walks forward in a room under construction, gesturing with his hands while holding a phone and speaking.",
+    "captions": [
+      "A man walks forward in a room under construction, gesturing with his hands while holding a phone and speaking.",
+      "The man moves toward the camera, talking and using hand gestures, then turns and points up at a device on the wall.",
+      "Walking into the frame, the man speaks while gesturing, then stops to point at a white object mounted on the wall near a ladder.",
+      "A man stands in a room, walks forward while talking and gesturing, and then points to a device on the wall beside a ladder.",
+      "The man walks forward, talking and using hand movements, then turns to point at a wall-mounted device while holding a phone."
+    ],
+    "dynamicScore": "0.8988",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Cooking-Ingredient-Preparation-0.glb",
+    "category": "Cooking",
+    "subcategory": "Ingredient Preparation",
+    "caption": "A woman in a kitchen walks to the counter, places a bowl down, stirs its contents with a spoon, and then takes a bite from the spoon.",
+    "captions": [
+      "A woman in a kitchen walks to the counter, places a bowl down, stirs its contents with a spoon, and then takes a bite from the spoon."
+    ],
+    "dynamicScore": "0.4414",
+    "sizeKB": 469.9
+  },
+  {
+    "file": "static/models/Cooking-Stovetop-Cooking-1.glb",
+    "category": "Cooking",
+    "subcategory": "Stovetop Cooking",
+    "caption": "A man is adjusting a metal cooking setup, moving it into position and then lowering a lid onto it.",
+    "captions": [
+      "A man is adjusting a metal cooking setup, moving it into position and then lowering a lid onto it."
+    ],
+    "dynamicScore": "0.4639",
+    "sizeKB": 453.9
+  },
+  {
+    "file": "static/models/Cooking-Knife-Skills-2.glb",
+    "category": "Cooking",
+    "subcategory": "Knife Skills",
+    "caption": "A person wearing gloves cuts a large piece of meat on a wooden board with a knife.",
+    "captions": [
+      "A person wearing gloves cuts a large piece of meat on a wooden board with a knife."
+    ],
+    "dynamicScore": "0.2960",
+    "sizeKB": 569.2
+  },
+  {
+    "file": "static/models/Crafting-Wood-Craft-0.glb",
+    "category": "Crafting",
+    "subcategory": "Wood Craft",
+    "caption": "A man kneels on the ground, holding a bag and gesturing with his hand, then bends down to pick up a bundle of sticks and begins arranging them.",
+    "captions": [
+      "A man kneels on the ground, holding a bag and gesturing with his hand, then bends down to pick up a bundle of sticks and begins arranging them."
+    ],
+    "dynamicScore": "0.4756",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Crafting-Resin-Coating-1.glb",
+    "category": "Crafting",
+    "subcategory": "Resin Coating",
+    "caption": "A man in black gloves and a cap uses a small roller to spread a liquid evenly across a flat surface on a table.",
+    "captions": [
+      "A man in black gloves and a cap uses a small roller to spread a liquid evenly across a flat surface on a table."
+    ],
+    "dynamicScore": "0.3930",
+    "sizeKB": 507.0
+  },
+  {
+    "file": "static/models/Crafting-Metal-Craft-2.glb",
+    "category": "Crafting",
+    "subcategory": "Metal Craft",
+    "caption": "A man in a workshop uses tongs to hold a glowing piece of metal on an anvil, then repeatedly hammers it with a large mallet while rotating it to shape it.",
+    "captions": [
+      "A man in a workshop uses tongs to hold a glowing piece of metal on an anvil, then repeatedly hammers it with a large mallet while rotating it to shape it."
+    ],
+    "dynamicScore": "0.3863",
+    "sizeKB": 512.5
+  },
+  {
+    "file": "static/models/Culture-Offering-Custom-0.glb",
+    "category": "Culture",
+    "subcategory": "Offering Custom",
+    "caption": "A man in a suit walks along a brick wall, bends down, and places red flowers into a row of flower holders at the base of the wall.",
+    "captions": [
+      "A man in a suit walks along a brick wall, bends down, and places red flowers into a row of flower holders at the base of the wall."
+    ],
+    "dynamicScore": "0.4334",
+    "sizeKB": 512.5
+  },
+  {
+    "file": "static/models/Culture-Traditional-Greeting-1.glb",
+    "category": "Culture",
+    "subcategory": "Traditional Greeting",
+    "caption": "A person in a white martial arts uniform with a black belt stands on a blue mat, performs a bow, and then stands at attention.",
+    "captions": [
+      "A person in a white martial arts uniform with a black belt stands on a blue mat, performs a bow, and then stands at attention."
+    ],
+    "dynamicScore": "0.4858",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Culture-Traditional-Attire-2.glb",
+    "category": "Culture",
+    "subcategory": "Traditional Attire",
+    "caption": "A person in traditional armor steps out of a wooden building and stands still, looking forward.",
+    "captions": [
+      "A person in traditional armor steps out of a wooden building and stands still, looking forward."
+    ],
+    "dynamicScore": "0.4983",
+    "sizeKB": 462.9
+  },
+  {
+    "file": "static/models/Daily-Life-Item-Handling-0.glb",
+    "category": "Daily Life",
+    "subcategory": "Item Handling",
+    "atomicAction": "Reach into jacket pocket",
+    "caption": "A man runs forward, then stops and reaches into his jacket pocket.",
+    "captions": [
+      "A man runs forward, then stops and reaches into his jacket pocket.",
+      "A man in a plaid jacket runs towards the camera, then stops and puts his hand in his jacket.",
+      "A man runs and then stops, putting his hand into his jacket pocket.",
+      "A man runs forward, stops, and then reaches into his jacket.",
+      "A man runs, stops, and then puts his hand into his jacket pocket."
+    ],
+    "dynamicScore": "0.7266",
+    "sizeKB": 441.0
+  },
+  {
+    "file": "static/models/Daily-Life-Beverage-Preparation-1.glb",
+    "category": "Daily Life",
+    "subcategory": "Beverage Preparation",
+    "atomicAction": "Open bottle",
+    "caption": "A person walks over to a table, picks up a bottle, and starts opening it.",
+    "captions": [
+      "A person walks over to a table, picks up a bottle, and starts opening it.",
+      "The woman moves to the table, grabs a bottle, and begins to twist the cap off.",
+      "She walks from the counter to the table, picks up a bottle, and unscrews the cap.",
+      "A person walks to the table, takes a bottle, and opens it by twisting the cap.",
+      "Moving from the kitchen area, the woman reaches the table, picks up a bottle, and opens it."
+    ],
+    "dynamicScore": "0.7204",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Daily-Life-Indoor-Navigation-2.glb",
+    "category": "Daily Life",
+    "subcategory": "Indoor Navigation",
+    "atomicAction": "Walk to counter",
+    "caption": "A man in a light blue shirt and gray shorts walks away from a table, then turns and walks back toward it, stopping to look at something on the counter.",
+    "captions": [
+      "A man in a light blue shirt and gray shorts walks away from a table, then turns and walks back toward it, stopping to look at something on the counter.",
+      "A man walks from a table to a large machine, then turns and walks back, stopping to look at the counter.",
+      "A man in a blue shirt and shorts walks from a table to a machine, then turns and walks back, looking at the counter as he stops.",
+      "A man walks away from a table, turns around, and walks back, stopping to look at the counter area.",
+      "A man in a blue shirt and gray shorts walks from a table to a machine, then turns and walks back, stopping to look at the counter with a focused expression."
+    ],
+    "dynamicScore": "0.8340",
+    "sizeKB": 456.7
+  },
+  {
+    "file": "static/models/Dance-Dance-Class-0.glb",
+    "category": "Dance",
+    "subcategory": "Dance Class",
+    "atomicAction": "Step side to side",
+    "caption": "A person is doing a side-to-side stepping motion, swinging their arms and bending their knees as they move from one side to the other.",
+    "captions": [
+      "A person is doing a side-to-side stepping motion, swinging their arms and bending their knees as they move from one side to the other.",
+      "The person steps side to side while swinging their arms, then brings their hands to their chest and starts talking.",
+      "A woman steps side to side with her arms swinging, then stops, brings her hands to her chest, and begins speaking.",
+      "The person moves side to side, swinging their arms, then stops and stands with hands clasped in front of her chest.",
+      "The woman steps side to side, swinging her arms, then stops, brings her hands to her chest, and talks."
+    ],
+    "dynamicScore": "1.1382",
+    "sizeKB": 484.0
+  },
+  {
+    "file": "static/models/Dance-Jazz-Dance-1.glb",
+    "category": "Dance",
+    "subcategory": "Jazz Dance",
+    "atomicAction": "Tap dance",
+    "caption": "A man in a vest and black pants performs a tap dance routine on stage, moving across the floor with energetic steps and arm gestures.",
+    "captions": [
+      "A man in a vest and black pants performs a tap dance routine on stage, moving across the floor with energetic steps and arm gestures.",
+      "A dancer turns and walks across the stage, extending his arms and performing rhythmic footwork in a tap dance style.",
+      "A man in a white shirt and vest dances on stage, turning and stepping with his arms outstretched in a choreographed routine.",
+      "A man dances across the stage, turning and stepping with his arms wide open, performing a tap dance routine.",
+      "A man in a vest and black pants dances on stage, moving from side to side with expressive arm movements and tap steps."
+    ],
+    "dynamicScore": "1.1983",
+    "sizeKB": 515.2
+  },
+  {
+    "file": "static/models/Dance-Ballet-2.glb",
+    "category": "Dance",
+    "subcategory": "Ballet",
+    "atomicAction": "Spin on one foot",
+    "caption": "A dancer performs a pirouette, starting with arms outstretched, then turning on one foot while maintaining balance and poise.",
+    "captions": [
+      "A dancer performs a pirouette, starting with arms outstretched, then turning on one foot while maintaining balance and poise.",
+      "The dancer executes a smooth pirouette, rotating on one leg with arms gracefully extended to the sides.",
+      "A ballerina spins in a pirouette, lifting one leg and holding a balanced pose with arms in a classical ballet position.",
+      "A woman in black moves through a pirouette, turning fluidly on one foot with arms extended and body upright.",
+      "Performing a pirouette, the dancer transitions from a wide stance to a spinning motion, ending in a poised pose with one leg lifted."
+    ],
+    "dynamicScore": "1.2182",
+    "sizeKB": 493.0
+  },
+  {
+    "file": "static/models/Driving-Driver-Training-0.glb",
+    "category": "Driving",
+    "subcategory": "Driver Training",
+    "caption": "A man sitting in a car talks while gesturing with his hands and occasionally touching the steering wheel.",
+    "captions": [
+      "A man sitting in a car talks while gesturing with his hands and occasionally touching the steering wheel."
+    ],
+    "dynamicScore": "0.2710",
+    "sizeKB": 465.2
+  },
+  {
+    "file": "static/models/Driving-Tractor-Driving-1.glb",
+    "category": "Driving",
+    "subcategory": "Tractor Driving",
+    "caption": "A man drives a small red tractor along a narrow dirt path between a wooden house and a stone wall, making a slow turn while gesturing with his hand.",
+    "captions": [
+      "A man drives a small red tractor along a narrow dirt path between a wooden house and a stone wall, making a slow turn while gesturing with his hand."
+    ],
+    "dynamicScore": "0.3618",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Driving-Truck-Driving-2.glb",
+    "category": "Driving",
+    "subcategory": "Truck Driving",
+    "caption": "A man in a safety vest drives a large truck, steering with both hands as the vehicle moves forward through a parking lot.",
+    "captions": [
+      "A man in a safety vest drives a large truck, steering with both hands as the vehicle moves forward through a parking lot."
+    ],
+    "dynamicScore": "0.2747",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Eating-Chopstick-Dining-0.glb",
+    "category": "Eating",
+    "subcategory": "Chopstick Dining",
+    "caption": "A person picks up a bowl of soup and eats it with chopsticks while sitting at a table with a large dish of food in front of them.",
+    "captions": [
+      "A person picks up a bowl of soup and eats it with chopsticks while sitting at a table with a large dish of food in front of them."
+    ],
+    "dynamicScore": "0.2562",
+    "sizeKB": 545.7
+  },
+  {
+    "file": "static/models/Eating-Outdoor-Dining-1.glb",
+    "category": "Eating",
+    "subcategory": "Outdoor Dining",
+    "caption": "A man stands in a forest holding a plate, then brings it closer to his face while looking at it.",
+    "captions": [
+      "A man stands in a forest holding a plate, then brings it closer to his face while looking at it."
+    ],
+    "dynamicScore": "0.2549",
+    "sizeKB": 431.2
+  },
+  {
+    "file": "static/models/Eating-Camp-Dining-2.glb",
+    "category": "Eating",
+    "subcategory": "Camp Dining",
+    "caption": "A man sits outside a tent, eating from a blue plate with his hands and a spoon.",
+    "captions": [
+      "A man sits outside a tent, eating from a blue plate with his hands and a spoon."
+    ],
+    "dynamicScore": "0.2068",
+    "sizeKB": 449.2
+  },
+  {
+    "file": "static/models/Education-Presentations-0.glb",
+    "category": "Education",
+    "subcategory": "Presentations",
+    "caption": "A man in a light blue shirt and black pants walks back and forth on a stage, holding a remote in one hand and gesturing with the other while speaking.",
+    "captions": [
+      "A man in a light blue shirt and black pants walks back and forth on a stage, holding a remote in one hand and gesturing with the other while speaking."
+    ],
+    "dynamicScore": "0.3514",
+    "sizeKB": 596.9
+  },
+  {
+    "file": "static/models/Education-Physical-Education-1.glb",
+    "category": "Education",
+    "subcategory": "Physical Education",
+    "caption": "A person in a white uniform and black belt stands on a blue mat, lifting one leg and gesturing with their hands while speaking.",
+    "captions": [
+      "A person in a white uniform and black belt stands on a blue mat, lifting one leg and gesturing with their hands while speaking."
+    ],
+    "dynamicScore": "0.2425",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Education-Science-Education-2.glb",
+    "category": "Education",
+    "subcategory": "Science Education",
+    "caption": "A man holds a concrete block while gesturing and talking, then leans forward to point at the block.",
+    "captions": [
+      "A man holds a concrete block while gesturing and talking, then leans forward to point at the block."
+    ],
+    "dynamicScore": "0.2622",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Emergency-Response-Firefighting-Operation-0.glb",
+    "category": "Emergency Response",
+    "subcategory": "Firefighting Operation",
+    "atomicAction": "Carry fire extinguishers",
+    "caption": "A man in an orange shirt enters through a glass door carrying two red fire extinguishers, one in each hand, and walks past the camera.",
+    "captions": [
+      "A man in an orange shirt enters through a glass door carrying two red fire extinguishers, one in each hand, and walks past the camera.",
+      "A man walks into a building through a glass door while holding two red fire extinguishers, one in each hand, and moves out of view.",
+      "A man in an orange shirt walks through a glass door into a building, carrying two red fire extinguishers, one in each hand, and continues walking forward.",
+      "A man enters a building through a glass door, carrying two red fire extinguishers, one in each hand, and walks past the camera.",
+      "A man in an orange shirt walks through a glass door, carrying two red fire extinguishers, one in each hand, and walks toward the camera before moving out of frame."
+    ],
+    "dynamicScore": "0.7477",
+    "sizeKB": 480.1
+  },
+  {
+    "file": "static/models/Emergency-Response-Search-And-Rescue-1.glb",
+    "category": "Emergency Response",
+    "subcategory": "Search And Rescue",
+    "atomicAction": "Adjust strap",
+    "caption": "A firefighter in full gear bends down to adjust a strap on the ground, then stands up and walks forward along a sidewalk.",
+    "captions": [
+      "A firefighter in full gear bends down to adjust a strap on the ground, then stands up and walks forward along a sidewalk.",
+      "A firefighter bends over to fix a strap on the ground, then stands and walks away from the camera.",
+      "A firefighter adjusts a strap on the sidewalk, then stands and walks forward while looking toward the camera.",
+      "A firefighter bends down to handle a strap on the ground, stands up, and walks forward along a building's wall.",
+      "A firefighter in gear bends to adjust a strap on the sidewalk, then rises and walks forward, stepping over the strap."
+    ],
+    "dynamicScore": "0.7540",
+    "sizeKB": 434.3
+  },
+  {
+    "file": "static/models/Emergency-Response-Hazmat-Operation-2.glb",
+    "category": "Emergency Response",
+    "subcategory": "Hazmat Operation",
+    "atomicAction": "Walk forward",
+    "caption": "A person in a hazmat suit walks forward, lifts their leg, and then spreads their arms out wide.",
+    "captions": [
+      "A person in a hazmat suit walks forward, lifts their leg, and then spreads their arms out wide.",
+      "A person in a protective suit moves around, lifting one leg and then extending both arms out to the sides.",
+      "A person in a hazmat suit steps forward, raises a leg, and then spreads their arms wide before turning slightly.",
+      "Someone in a full protective suit walks, lifts a leg, and then opens their arms wide in a sweeping motion.",
+      "A person in a hazmat suit walks forward, lifts their leg, and then spreads their arms out wide, turning slightly to the side."
+    ],
+    "dynamicScore": "0.7667",
+    "sizeKB": 535.6
+  },
+  {
+    "file": "static/models/Emotes-Idle-Poses-0.glb",
+    "category": "Emotes",
+    "subcategory": "Idle Poses",
+    "atomicAction": "Turn in place",
+    "caption": "A person stands with hands on hips, turns in a circle, and walks away from the camera.",
+    "captions": [
+      "A person stands with hands on hips, turns in a circle, and walks away from the camera.",
+      "The individual rotates in place, facing different directions, then steps backward across the room.",
+      "A woman spins around, showing her back to the camera, then walks away while keeping her hands on her hips.",
+      "With hands on hips, the person pivots slowly, turns completely around, and walks forward into the room.",
+      "Starting with a front-facing pose, the person turns around, walks backward, and continues moving away from the camera."
+    ],
+    "dynamicScore": "0.5457",
+    "sizeKB": 561.0
+  },
+  {
+    "file": "static/models/Emotes-Romance-Gestures-1.glb",
+    "category": "Emotes",
+    "subcategory": "Romance Gestures",
+    "caption": "A man walks toward a tree in the woods, then reaches out and hugs it.",
+    "captions": [
+      "A man walks toward a tree in the woods, then reaches out and hugs it."
+    ],
+    "dynamicScore": "0.4815",
+    "sizeKB": 464.1
+  },
+  {
+    "file": "static/models/Emotes-Happy-Emotions-2.glb",
+    "category": "Emotes",
+    "subcategory": "Happy Emotions",
+    "caption": "A man sits in a chair holding a microphone, then laughs and covers his face with his hand.",
+    "captions": [
+      "A man sits in a chair holding a microphone, then laughs and covers his face with his hand."
+    ],
+    "dynamicScore": "0.3621",
+    "sizeKB": 471.1
+  },
+  {
+    "file": "static/models/Fashion-Athletic-Wear-0.glb",
+    "category": "Fashion",
+    "subcategory": "Athletic Wear",
+    "caption": "A woman in black workout clothes turns around slowly, showing off her outfit from front to back.",
+    "captions": [
+      "A woman in black workout clothes turns around slowly, showing off her outfit from front to back."
+    ],
+    "dynamicScore": "0.4670",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Fashion-Fashion-Photography-1.glb",
+    "category": "Fashion",
+    "subcategory": "Fashion Photography",
+    "atomicAction": "Pose outfit",
+    "caption": "A person in a form-fitting outfit poses and moves their arms and body in different directions, turning to show the side and back of the outfit.",
+    "captions": [
+      "A person in a form-fitting outfit poses and moves their arms and body in different directions, turning to show the side and back of the outfit.",
+      "The person stands in a room, adjusting their outfit and then turning slowly to display it from multiple angles, moving their arms and shifting their stance.",
+      "A woman in a tight bodysuit and high boots stands and turns, posing to show off the outfit from the front, side, and back while making small arm movements.",
+      "The individual shifts their weight, turns, and moves their arms while standing in a room, showcasing the outfit from various angles.",
+      "A person in a black and brown bodysuit and tall boots poses, turns, and moves their arms, displaying the outfit from different perspectives."
+    ],
+    "dynamicScore": "0.5413",
+    "sizeKB": 587.1
+  },
+  {
+    "file": "static/models/Fashion-Wardrobe-Styling-2.glb",
+    "category": "Fashion",
+    "subcategory": "Wardrobe Styling",
+    "atomicAction": "Hold dress on hanger",
+    "caption": "A person stands in a room, holding up a blue dress on a hanger and turning it slightly to show different angles.",
+    "captions": [
+      "A person stands in a room, holding up a blue dress on a hanger and turning it slightly to show different angles.",
+      "The woman holds a blue dress on a hanger, rotating it slowly to display the front and side views while standing in front of a bed.",
+      "Holding a blue dress on a hanger, the person shifts their stance and turns the dress to showcase its design from multiple angles.",
+      "A woman presents a blue dress by holding it up on a hanger, adjusting its position to highlight the fit and details.",
+      "The person lifts a blue dress on a hanger, turning it side to side to show the fabric and cut while standing in a bedroom."
+    ],
+    "dynamicScore": "0.5158",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Fitness-Yoga-Training-0.glb",
+    "category": "Fitness",
+    "subcategory": "Yoga Training",
+    "caption": "A person starts kneeling on a mat, then shifts their weight forward, places one hand down, and extends their legs into a seated position.",
+    "captions": [
+      "A person starts kneeling on a mat, then shifts their weight forward, places one hand down, and extends their legs into a seated position."
+    ],
+    "dynamicScore": "0.3158",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Fitness-Mobility-Training-1.glb",
+    "category": "Fitness",
+    "subcategory": "Mobility Training",
+    "caption": "A man stands at his desk, stretching his lower back by placing one hand on his hip and leaning to the side. He then bends forward slightly, keeping his back straight, before standing up and lifting one leg at a time in a marching motion while standing in place.",
+    "captions": [
+      "A man stands at his desk, stretching his lower back by placing one hand on his hip and leaning to the side. He then bends forward slightly, keeping his back straight, before standing up and lifting one leg at a time in a marching motion while standing in place."
+    ],
+    "dynamicScore": "0.4629",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Fitness-Balance-Training-2.glb",
+    "category": "Fitness",
+    "subcategory": "Balance Training",
+    "caption": "A person in a helmet stands in a field, bending forward and moving their arms out to the sides as if testing balance or preparing for an activity.",
+    "captions": [
+      "A person in a helmet stands in a field, bending forward and moving their arms out to the sides as if testing balance or preparing for an activity."
+    ],
+    "dynamicScore": "0.3822",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Games-Dexterity-Games-0.glb",
+    "category": "Games",
+    "subcategory": "Dexterity Games",
+    "atomicAction": "Throw object at target",
+    "caption": "A man in a tracksuit bends down, picks up a small object, and throws it at a target on the wall before standing up and turning away.",
+    "captions": [
+      "A man in a tracksuit bends down, picks up a small object, and throws it at a target on the wall before standing up and turning away.",
+      "The man picks something up from the floor, throws it toward the wall targets, then stands and walks away.",
+      "Bending over, the man grabs an object, throws it at the target, and then stands upright and turns to his left.",
+      "The person picks up an item, throws it at the target, stands up, and walks out of frame.",
+      "A man in a black and white tracksuit bends down, throws an object at a target on the wall, and then stands up and moves to the side."
+    ],
+    "dynamicScore": "0.7032",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Games-Children-s-Games-1.glb",
+    "category": "Games",
+    "subcategory": "Children's Games",
+    "atomicAction": "Hold toy",
+    "caption": "A woman walks toward a dog, then stands still as the dog jumps up to play with a red toy she's holding.",
+    "captions": [
+      "A woman walks toward a dog, then stands still as the dog jumps up to play with a red toy she's holding.",
+      "A person moves forward, then stops and holds a red object as a dog stands on its hind legs to reach it.",
+      "A woman approaches a dog, then stands and holds a red toy while the dog jumps up to grab it.",
+      "The woman walks forward, turns, and stands still, holding a red toy as the dog jumps up to play with it.",
+      "A woman walks toward a dog, stops, and holds a red toy as the dog stands on its hind legs to reach it."
+    ],
+    "dynamicScore": "0.6711",
+    "sizeKB": 451.6
+  },
+  {
+    "file": "static/models/Games-Hand-Games-2.glb",
+    "category": "Games",
+    "subcategory": "Hand Games",
+    "atomicAction": "Throw object and catch",
+    "caption": "A person stands in a field, repeatedly throwing a small object into the air and catching it as it falls back down.",
+    "captions": [
+      "A person stands in a field, repeatedly throwing a small object into the air and catching it as it falls back down.",
+      "In a grassy field, someone tosses an object upward and catches it, repeating the motion with consistent rhythm.",
+      "A person in a wide-open field repeatedly launches a small item into the air and catches it, moving slightly side to side.",
+      "Standing in a field under cloudy skies, a person throws an object up and catches it multiple times, maintaining a steady pace.",
+      "A person in a field tosses a small object into the air and catches it repeatedly, with the object rising and falling in a consistent arc."
+    ],
+    "dynamicScore": "0.7048",
+    "sizeKB": 473.8
+  },
+  {
+    "file": "static/models/Gardening-Garden-Construction-0.glb",
+    "category": "Gardening",
+    "subcategory": "Garden Construction",
+    "atomicAction": "Push wheelbarrow",
+    "caption": "A man pushes a wheelbarrow full of green plants through a garden, moving forward while gesturing with his hands.",
+    "captions": [
+      "A man pushes a wheelbarrow full of green plants through a garden, moving forward while gesturing with his hands.",
+      "A man walks through a leafy area, pushing a wheelbarrow loaded with foliage and occasionally moving his arms as he goes.",
+      "A man in a sweater pushes a wheelbarrow filled with plants, navigating through dense greenery and making hand gestures.",
+      "The man pushes a wheelbarrow with overgrown plants, walking steadily through a garden while using hand motions.",
+      "Pushing a wheelbarrow filled with greenery, the man moves forward through a wooded area, using hand gestures as he walks."
+    ],
+    "dynamicScore": "0.5815",
+    "sizeKB": 487.9
+  },
+  {
+    "file": "static/models/Gardening-Greenhouse-Gardening-1.glb",
+    "category": "Gardening",
+    "subcategory": "Greenhouse Gardening",
+    "caption": "A man in a hat walks through a greenhouse, picks up a potted plant, and holds it up while talking.",
+    "captions": [
+      "A man in a hat walks through a greenhouse, picks up a potted plant, and holds it up while talking."
+    ],
+    "dynamicScore": "0.3599",
+    "sizeKB": 473.8
+  },
+  {
+    "file": "static/models/Gardening-Mulching-2.glb",
+    "category": "Gardening",
+    "subcategory": "Mulching",
+    "caption": "A man in an apron stands next to a pile of mulch bags, gesturing with his hands as he talks.",
+    "captions": [
+      "A man in an apron stands next to a pile of mulch bags, gesturing with his hands as he talks."
+    ],
+    "dynamicScore": "0.2707",
+    "sizeKB": 433.6
+  },
+  {
+    "file": "static/models/Gestures-Pointing-0.glb",
+    "category": "Gestures",
+    "subcategory": "Pointing",
+    "caption": "A person stands in place, making hand gestures and pointing toward the camera while speaking.",
+    "captions": [
+      "A person stands in place, making hand gestures and pointing toward the camera while speaking."
+    ],
+    "sizeKB": 428.5
+  },
+  {
+    "file": "static/models/Gestures-Directive-Gesture-1.glb",
+    "category": "Gestures",
+    "subcategory": "Directive Gesture",
+    "caption": "A person in a black coat stands barefoot on a rocky beach, slowly raising their arm and pointing toward the water.",
+    "captions": [
+      "A person in a black coat stands barefoot on a rocky beach, slowly raising their arm and pointing toward the water."
+    ],
+    "sizeKB": 448.0
+  },
+  {
+    "file": "static/models/Gestures-Emphasis-Gesture-2.glb",
+    "category": "Gestures",
+    "subcategory": "Expressive Gesture",
+    "atomicAction": "Move hands while speaking",
+    "caption": "A man stands in a yard and gestures with his hands while talking.",
+    "captions": [
+      "A man stands in a yard and gestures with his hands while talking.",
+      "The man moves his hands back and forth, palms up, as he speaks.",
+      "He gestures with his hands, sometimes bringing them together and other times spreading them apart.",
+      "The man uses expressive hand movements, moving his arms and hands to emphasize his words.",
+      "He stands in front of a house, moving his hands and arms in various gestures while speaking."
+    ],
+    "dynamicScore": "0.1758",
+    "sizeKB": 575.4
+  },
+  {
+    "file": "static/models/Healthcare-Patient-Personal-Care-0.glb",
+    "category": "Healthcare",
+    "subcategory": "Patient Personal Care",
+    "caption": "A person wearing gloves moves along the side of a hospital bed, adjusting the sheets and then gesturing with their hands while standing next to the bed.",
+    "captions": [
+      "A person wearing gloves moves along the side of a hospital bed, adjusting the sheets and then gesturing with their hands while standing next to the bed."
+    ],
+    "dynamicScore": "0.4322",
+    "sizeKB": 641.4
+  },
+  {
+    "file": "static/models/Healthcare-Mobility-Assistance-1.glb",
+    "category": "Healthcare",
+    "subcategory": "Mobility Assistance",
+    "caption": "A man operates a patient lift, adjusting its height by pulling a lever and then pushing the handle to move it forward.",
+    "captions": [
+      "A man operates a patient lift, adjusting its height by pulling a lever and then pushing the handle to move it forward."
+    ],
+    "dynamicScore": "0.3821",
+    "sizeKB": 563.3
+  },
+  {
+    "file": "static/models/Healthcare-Infection-Control-2.glb",
+    "category": "Healthcare",
+    "subcategory": "Infection Control",
+    "caption": "A person in full protective gear turns around slowly, facing a window with their back to the camera.",
+    "captions": [
+      "A person in full protective gear turns around slowly, facing a window with their back to the camera."
+    ],
+    "dynamicScore": "0.3549",
+    "sizeKB": 480.5
+  },
+  {
+    "file": "static/models/Housekeeping-Entryway-Maintenance-0.glb",
+    "category": "Housekeeping",
+    "subcategory": "Entryway Maintenance",
+    "atomicAction": "Hang jacket",
+    "caption": "A man walks into a room, bends down to pick up a jacket from the floor, and then hangs it on a hook by the door.",
+    "captions": [
+      "A man walks into a room, bends down to pick up a jacket from the floor, and then hangs it on a hook by the door.",
+      "A man enters the room, walks to the doorway, picks up a jacket from the floor, and hangs it on a hook.",
+      "A man walks into the room, bends down to pick up a jacket, and then hangs it on a hook next to the door.",
+      "A man walks into the room, picks up a jacket from the floor, and hangs it on a hook by the door.",
+      "A man walks into the room, bends down, picks up a jacket, and hangs it on a hook."
+    ],
+    "dynamicScore": "0.8088",
+    "sizeKB": 557.4
+  },
+  {
+    "file": "static/models/Housekeeping-Storage-Areas-1.glb",
+    "category": "Housekeeping",
+    "subcategory": "Storage Areas",
+    "atomicAction": "Place item in basket",
+    "caption": "A woman walks up to a basket, bends down, and puts something inside.",
+    "captions": [
+      "A woman walks up to a basket, bends down, and puts something inside.",
+      "A person in a gray shirt and black pants walks toward a woven basket, bends over, and places an object into it.",
+      "A woman carrying a round fruit walks to a basket on the ground, bends down, and carefully places the fruit inside.",
+      "Approaching a basket, the woman bends at the waist, lowers the object she's holding, and sets it inside the basket.",
+      "A woman walks into frame, stops beside a basket, bends forward, and deposits an item into the basket."
+    ],
+    "dynamicScore": "0.7860",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Housekeeping-Trash-Management-2.glb",
+    "category": "Housekeeping",
+    "subcategory": "Trash Management",
+    "atomicAction": "Collect trash",
+    "caption": "A man in a yellow shirt walks through a park, using a long grabber tool to pick up trash and put it into a plastic bag.",
+    "captions": [
+      "A man in a yellow shirt walks through a park, using a long grabber tool to pick up trash and put it into a plastic bag.",
+      "The man moves slowly across the grass, bending slightly to use the grabber to collect litter, then stands and continues walking while holding the bag.",
+      "A person in a yellow shirt and cap walks along a path, using a pole with a claw to pick up trash and place it into a bag they carry.",
+      "With a grabber tool in one hand and a trash bag in the other, the man walks through the park, repeatedly bending to collect debris from the ground.",
+      "The man walks steadily, using a long-handled tool to grab litter from the ground and deposit it into a plastic bag he holds, moving from one spot to another."
+    ],
+    "dynamicScore": "0.6492",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Housework-Vacuuming-0.glb",
+    "category": "Housework",
+    "subcategory": "Vacuuming",
+    "atomicAction": "Touch vacuum cleaner",
+    "caption": "A toddler walks around a vacuum cleaner, reaching out and touching it while moving in a circle.",
+    "captions": [
+      "A toddler walks around a vacuum cleaner, reaching out and touching it while moving in a circle.",
+      "A small child stands near a vacuum, then walks in a slow circle around it, occasionally reaching a hand toward the machine.",
+      "A baby in a blue hoodie walks in a small loop, reaching out to touch a vacuum cleaner that's on the floor.",
+      "The child moves in a circle, stepping carefully around the vacuum cleaner and extending an arm to touch it.",
+      "A toddler walks in a tight circle, reaching toward a vacuum cleaner that's plugged in and sitting on the floor."
+    ],
+    "dynamicScore": "1.3061",
+    "sizeKB": 473.5
+  },
+  {
+    "file": "static/models/Housework-Bed-Making-1.glb",
+    "category": "Housework",
+    "subcategory": "Bed Making",
+    "atomicAction": "Pick up pillow",
+    "caption": "A woman walks to a bed, picks up a pillow, and holds it up.",
+    "captions": [
+      "A woman walks to a bed, picks up a pillow, and holds it up.",
+      "The woman moves toward the bed, grabs a pillow from the headboard, and lifts it.",
+      "She walks over to the bed, reaches for a pillow, and lifts it up while standing beside the bed.",
+      "A woman walks across the room to the bed, picks up a pillow from the headboard, and holds it in her hands.",
+      "Moving toward the bed, the woman picks up a pillow and holds it up."
+    ],
+    "dynamicScore": "0.6665",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Housework-Surface-Cleaning-2.glb",
+    "category": "Housework",
+    "subcategory": "Surface Cleaning",
+    "atomicAction": "Sweep table",
+    "caption": "A man walks across a workshop and sweeps a table with a broom.",
+    "captions": [
+      "A man walks across a workshop and sweeps a table with a broom.",
+      "A person in a blue shirt and hat walks into a room, then uses a broom to clean a large table surface.",
+      "A man moves from the right side of the room to a table, picks up a broom, and begins sweeping the tabletop.",
+      "Walking from right to left, a man with a broom and a tool in hand cleans a workbench by sweeping its surface.",
+      "A man enters the frame, walks to a table, and methodically sweeps its surface with a broom."
+    ],
+    "dynamicScore": "1.0523",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Laboratory-Lab-Safety-0.glb",
+    "category": "Laboratory",
+    "subcategory": "Lab Safety",
+    "caption": "A person in a lab coat and gloves removes their protective suit by pulling it off from the top, then stepping out of the pants one leg at a time.",
+    "captions": [
+      "A person in a lab coat and gloves removes their protective suit by pulling it off from the top, then stepping out of the pants one leg at a time."
+    ],
+    "dynamicScore": "0.3992",
+    "sizeKB": 651.2
+  },
+  {
+    "file": "static/models/Laboratory-Laboratory-Maintenance-1.glb",
+    "category": "Laboratory",
+    "subcategory": "Laboratory Maintenance",
+    "caption": "A man in a lab coat moves quickly across the stage, then bends down to adjust something on a table with balloons.",
+    "captions": [
+      "A man in a lab coat moves quickly across the stage, then bends down to adjust something on a table with balloons."
+    ],
+    "dynamicScore": "0.4155",
+    "sizeKB": 510.6
+  },
+  {
+    "file": "static/models/Laboratory-Wet-Lab-Procedure-2.glb",
+    "category": "Laboratory",
+    "subcategory": "Wet Lab Procedure",
+    "caption": "A person in a lab coat and gloves is working at a stainless steel counter, moving their hands back and forth as they handle something out of view.",
+    "captions": [
+      "A person in a lab coat and gloves is working at a stainless steel counter, moving their hands back and forth as they handle something out of view."
+    ],
+    "dynamicScore": "0.3780",
+    "sizeKB": 498.8
+  },
+  {
+    "file": "static/models/Law-Enforcement-Building-Searches-0.glb",
+    "category": "Law Enforcement",
+    "subcategory": "Building Searches",
+    "atomicAction": "Open stable door",
+    "caption": "A police officer stands by a stable door, holding the handle and slowly pushing it open while stepping back slightly.",
+    "captions": [
+      "A police officer stands by a stable door, holding the handle and slowly pushing it open while stepping back slightly.",
+      "The officer turns the door handle, pulling the stable door inward and stepping back as it swings open.",
+      "A police officer grasps the handle of a wooden stable door, turning it and pushing the door open while stepping to the side.",
+      "The officer pulls the door open by turning the handle, then steps back as the door swings inward, revealing the stable interior.",
+      "A police officer turns the door handle, pushes the stable door open, and takes a small step back, maintaining a steady stance."
+    ],
+    "dynamicScore": "0.6066",
+    "sizeKB": 453.1
+  },
+  {
+    "file": "static/models/Law-Enforcement-Police-Gear-1.glb",
+    "category": "Law Enforcement",
+    "subcategory": "Police Gear",
+    "atomicAction": "Inspect tool",
+    "caption": "A man in uniform steps out of a white animal control truck, grabs a tool from inside, and walks forward while examining it.",
+    "captions": [
+      "A man in uniform steps out of a white animal control truck, grabs a tool from inside, and walks forward while examining it.",
+      "An animal control officer exits his vehicle, retrieves a piece of equipment, and walks toward the camera while inspecting the tool in his hands.",
+      "A person in a black uniform exits a white utility truck, takes out a handheld device, and walks forward while looking down at it.",
+      "An officer in a black uniform walks out from a Palm Beach County Animal Control truck, pulls out a tool, and inspects it while stepping forward.",
+      "A man in a uniform steps out of a truck, takes a tool from the back, and walks forward while holding and examining the equipment."
+    ],
+    "dynamicScore": "0.6999",
+    "sizeKB": 482.8
+  },
+  {
+    "file": "static/models/Law-Enforcement-Firearms-Training-2.glb",
+    "category": "Law Enforcement",
+    "subcategory": "Firearms Training",
+    "atomicAction": "Fire handgun",
+    "caption": "A man in a black shirt and ear protection draws a handgun from his waist, aims at a target, and fires several rounds while moving slightly to his left.",
+    "captions": [
+      "A man in a black shirt and ear protection draws a handgun from his waist, aims at a target, and fires several rounds while moving slightly to his left.",
+      "The man draws his pistol, aims at the target, and shoots multiple times, stepping back and to the side as he fires.",
+      "A man at a shooting range draws his handgun, aims, and fires at a target, moving his body slightly during the sequence.",
+      "The man pulls his gun from his holster, raises it to aim, and fires several shots at a target while shifting his stance.",
+      "A person draws a handgun, aims at a target, and fires multiple rounds while stepping back and to the side, maintaining a steady shooting posture."
+    ],
+    "dynamicScore": "0.5191",
+    "sizeKB": 456.7
+  },
+  {
+    "file": "static/models/Maintenance-Aircraft-Service-0.glb",
+    "category": "Maintenance",
+    "subcategory": "Aircraft Service",
+    "atomicAction": "Inspect landing gear",
+    "caption": "A man walks around a small airplane, inspecting it and adjusting something near the front wheel.",
+    "captions": [
+      "A man walks around a small airplane, inspecting it and adjusting something near the front wheel.",
+      "The man moves from the side of the plane to the front, bending down to check or adjust a component near the landing gear.",
+      "A person walks toward the front of a small white plane, then leans down to work on the area near the nose wheel.",
+      "Starting at the wing, the man walks forward along the side of the aircraft, stopping to bend over and interact with the front landing gear.",
+      "The man walks from the wing to the front of the airplane, then bends down to examine or adjust a part of the front landing gear."
+    ],
+    "dynamicScore": "0.9080",
+    "sizeKB": 485.6
+  },
+  {
+    "file": "static/models/Maintenance-Flooring-Service-1.glb",
+    "category": "Maintenance",
+    "subcategory": "Flooring Service",
+    "atomicAction": "Adjust grid mat",
+    "caption": "A man walks forward on a paved surface, then bends down to adjust a black grid-like mat on the ground.",
+    "captions": [
+      "A man walks forward on a paved surface, then bends down to adjust a black grid-like mat on the ground.",
+      "The man steps onto a section of interlocking pavers, bends over, and adjusts a black plastic grid, then stands back up.",
+      "A man in a cap walks toward a paved area, bends down to place or adjust a black grid panel, and then stands upright again.",
+      "Walking across a patio, the man stops, bends down, and positions a black grid mat on the ground before standing back up.",
+      "The man moves forward, stops at a section of pavement, bends down to adjust a black grid structure, then rises and steps back."
+    ],
+    "dynamicScore": "0.5852",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Maintenance-Elevator-Service-2.glb",
+    "category": "Maintenance",
+    "subcategory": "Elevator Service",
+    "atomicAction": "Measure ceiling height",
+    "caption": "A man measures the ceiling height with a tape measure, then walks to a red lift and adjusts it before measuring again.",
+    "captions": [
+      "A man measures the ceiling height with a tape measure, then walks to a red lift and adjusts it before measuring again.",
+      "The man uses a tape measure to check the ceiling height, then moves to a red mechanical lift and makes adjustments to its position.",
+      "A man takes a ceiling measurement with a tape measure, then walks over to a red lift and makes adjustments to it.",
+      "The man measures the ceiling, then moves to a red lift and adjusts it, likely preparing for a task involving the lift.",
+      "After measuring the ceiling, the man walks to a red lift and makes adjustments to its height or position."
+    ],
+    "dynamicScore": "0.6097",
+    "sizeKB": 545.7
+  },
+  {
+    "file": "static/models/Marine-Maritime-Safety-0.glb",
+    "category": "Marine",
+    "subcategory": "Maritime Safety",
+    "atomicAction": "Adjust ropes",
+    "caption": "A woman walks along a dock carrying a life preserver and a buoy, adjusting the ropes as she moves.",
+    "captions": [
+      "A woman walks along a dock carrying a life preserver and a buoy, adjusting the ropes as she moves.",
+      "Walking on a wooden pier, a woman holds a life ring and a red buoy, pulling and repositioning the attached ropes.",
+      "A person walks on a dock while holding a life preserver and a small orange buoy, carefully managing the ropes connected to both items.",
+      "Moving steadily across a marina dock, a woman carries a bright orange life ring and a buoy, adjusting the rope attachments as she goes.",
+      "A woman walks along a boat dock carrying a life preserver and a buoy, handling the ropes with her hands as she progresses."
+    ],
+    "dynamicScore": "0.8354",
+    "sizeKB": 468.0
+  },
+  {
+    "file": "static/models/Marine-Commercial-Fishing-1.glb",
+    "category": "Marine",
+    "subcategory": "Commercial Fishing",
+    "atomicAction": "Pull fishing net",
+    "caption": "A man stands in shallow water and pulls a fishing net out of the water, holding it up and inspecting it.",
+    "captions": [
+      "A man stands in shallow water and pulls a fishing net out of the water, holding it up and inspecting it.",
+      "The man pulls a long net from the water, untangling it and holding it up to examine its contents.",
+      "Standing in the water, the man lifts a fishing net, carefully handling it as he checks for fish.",
+      "He pulls a net from the water, gathering the rope and holding the net up to look inside.",
+      "The man in the water pulls a net, untangling and holding it up to see what he caught."
+    ],
+    "dynamicScore": "0.5138",
+    "sizeKB": 514.1
+  },
+  {
+    "file": "static/models/Marine-Underwater-Operations-2.glb",
+    "category": "Marine",
+    "subcategory": "Underwater Operations",
+    "atomicAction": "Pull rope",
+    "caption": "A person stands on a dock, pulling a red rope attached to a submerged object, then bends down to adjust the equipment in the water.",
+    "captions": [
+      "A person stands on a dock, pulling a red rope attached to a submerged object, then bends down to adjust the equipment in the water.",
+      "A man in a black jacket and gloves pulls a rope from the water, then leans over to work on a device on the dock.",
+      "Standing at the edge of a pond, a person pulls on a red rope connected to a device in the water, then bends down to manipulate it.",
+      "A man on a concrete platform pulls a rope from the water, then bends over to adjust a piece of equipment on the dock.",
+      "A person on a dock pulls a red rope from the water, then bends down to adjust the gear attached to the rope."
+    ],
+    "dynamicScore": "0.5212",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Military-Weapons-Training-0.glb",
+    "category": "Military",
+    "subcategory": "Weapons Training",
+    "atomicAction": "Raise rifle",
+    "caption": "A man in a black shirt and jeans moves from standing to a shooting stance, bringing a rifle up to his shoulder while stepping forward and turning his body.",
+    "captions": [
+      "A man in a black shirt and jeans moves from standing to a shooting stance, bringing a rifle up to his shoulder while stepping forward and turning his body.",
+      "The man points, then quickly raises his rifle, stepping into a wide stance and aiming forward with both hands.",
+      "Starting with a pointing gesture, the man transitions into a tactical position, bringing his rifle up and adopting a stable, aimed posture.",
+      "He shifts from a pointing motion to a ready stance, smoothly bringing the rifle to his shoulder and positioning himself for shooting.",
+      "The man begins by pointing, then swiftly moves into a shooting position, raising the rifle and settling into a firm, aimed stance."
+    ],
+    "dynamicScore": "0.5974",
+    "sizeKB": 522.3
+  },
+  {
+    "file": "static/models/Military-Vehicle-Operations-1.glb",
+    "category": "Military",
+    "subcategory": "Vehicle Operations",
+    "atomicAction": "Walk toward Humvee",
+    "caption": "A man in a black shirt and cap walks away from the camera toward a gray Humvee parked on a dirt field.",
+    "captions": [
+      "A man in a black shirt and cap walks away from the camera toward a gray Humvee parked on a dirt field.",
+      "The man turns and walks forward across the sandy ground, heading toward the large military-style vehicle with its door open.",
+      "Starting from the right side of the frame, the man walks steadily across the dirt toward the Humvee, holding a small object in his hand.",
+      "A man walks from the right to the left side of the frame, approaching a gray off-road vehicle parked in an open area with trees in the background.",
+      "The man walks toward the Humvee, moving from the foreground to the middle ground while holding a device in his hand."
+    ],
+    "dynamicScore": "0.6483",
+    "sizeKB": 459.4
+  },
+  {
+    "file": "static/models/Military-Drill-Ceremonies-2.glb",
+    "category": "Military",
+    "subcategory": "Drill Ceremonies",
+    "atomicAction": "Draw sword",
+    "caption": "A man in black armor slowly draws a sword from its sheath and extends it forward in a smooth, deliberate motion.",
+    "captions": [
+      "A man in black armor slowly draws a sword from its sheath and extends it forward in a smooth, deliberate motion.",
+      "The man pulls his sword out and holds it out straight, pointing it forward with a steady hand.",
+      "He pulls his sword from the scabbard and raises it, extending it outward in a powerful gesture.",
+      "Starting with the sword sheathed, the man draws it out and holds it pointed forward, completing the motion with a strong stance.",
+      "The man unsheathes his sword and extends it horizontally, holding it firmly in front of him as he stands still."
+    ],
+    "dynamicScore": "0.5374",
+    "sizeKB": 458.6
+  },
+  {
+    "file": "static/models/Music-Percussion-Instruments-0.glb",
+    "category": "Music",
+    "subcategory": "Percussion Instruments",
+    "caption": "A baby in a high chair hits a colorful xylophone with a mallet while being held by an adult's hand.",
+    "captions": [
+      "A baby in a high chair hits a colorful xylophone with a mallet while being held by an adult's hand."
+    ],
+    "dynamicScore": "0.1411",
+    "sizeKB": 436.7
+  },
+  {
+    "file": "static/models/Music-Wind-Instruments-1.glb",
+    "category": "Music",
+    "subcategory": "Wind Instruments",
+    "caption": "A child sits on a chair and plays a flute, moving their fingers over the holes.",
+    "captions": [
+      "A child sits on a chair and plays a flute, moving their fingers over the holes."
+    ],
+    "dynamicScore": "0.1783",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Music-Traditional-Instruments-2.glb",
+    "category": "Music",
+    "subcategory": "Traditional Instruments",
+    "caption": "A person sits and plays an accordion, moving their hands over the keys and pushing and pulling the bellows.",
+    "captions": [
+      "A person sits and plays an accordion, moving their hands over the keys and pushing and pulling the bellows."
+    ],
+    "dynamicScore": "0.1794",
+    "sizeKB": 485.6
+  },
+  {
+    "file": "static/models/Office-Document-Management-0.glb",
+    "category": "Office",
+    "subcategory": "Document Management",
+    "caption": "A man walks up to a desk, leans over, and starts flipping through papers and books.",
+    "captions": [
+      "A man walks up to a desk, leans over, and starts flipping through papers and books."
+    ],
+    "dynamicScore": "0.3800",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Office-Desk-Computing-1.glb",
+    "category": "Office",
+    "subcategory": "Desk Computing",
+    "caption": "A person sits at a desk, using a computer and adjusting their chair while working.",
+    "captions": [
+      "A person sits at a desk, using a computer and adjusting their chair while working."
+    ],
+    "dynamicScore": "0.3301",
+    "sizeKB": 439.0
+  },
+  {
+    "file": "static/models/Office-Desk-Organization-2.glb",
+    "category": "Office",
+    "subcategory": "Desk Organization",
+    "caption": "A person stands beside an office chair and slowly rotates it to show its back, then turns it back to the front while gesturing toward the chair.",
+    "captions": [
+      "A person stands beside an office chair and slowly rotates it to show its back, then turns it back to the front while gesturing toward the chair."
+    ],
+    "dynamicScore": "0.4111",
+    "sizeKB": 434.7
+  },
+  {
+    "file": "static/models/Outdoors-Picnicking-0.glb",
+    "category": "Outdoors",
+    "subcategory": "Picnicking",
+    "atomicAction": "Set up chair",
+    "caption": "A man unfolds a small folding chair on the grass, then picks up a pink one and sets it up next to a black chair, adjusting them into place.",
+    "captions": [
+      "A man unfolds a small folding chair on the grass, then picks up a pink one and sets it up next to a black chair, adjusting them into place.",
+      "The man takes a compact folding chair from his hand, unfolds it, and places it on the ground. He then picks up a pink folding chair, unfolds it, and positions it beside the black chair.",
+      "A man unfolds a small folding chair, sets it down, then picks up a pink folding chair, unfolds it, and places it next to the black chair.",
+      "The man unfolds a folding chair, sets it on the ground, then picks up a pink folding chair, unfolds it, and positions it beside the black one.",
+      "The man unfolds a small folding chair, places it on the grass, then picks up a pink folding chair, unfolds it, and sets it next to the black chair."
+    ],
+    "dynamicScore": "0.7959",
+    "sizeKB": 498.8
+  },
+  {
+    "file": "static/models/Outdoors-Camping-1.glb",
+    "category": "Outdoors",
+    "subcategory": "Camping",
+    "atomicAction": "Walk around tent",
+    "caption": "A person in a red hoodie stands next to a green tent, then walks around it while looking down at the ground.",
+    "captions": [
+      "A person in a red hoodie stands next to a green tent, then walks around it while looking down at the ground.",
+      "A boy in a red sweatshirt moves around a green camping tent, bending down and stepping away before circling back.",
+      "A person in a red hoodie steps out from a green tent, then walks in a small circle around it, occasionally looking down.",
+      "A boy wearing a red hoodie and black pants stands beside a green tent, then walks around it while glancing at the ground.",
+      "A person exits a green tent and walks around its perimeter, turning and looking down as they move in a small arc."
+    ],
+    "dynamicScore": "0.8529",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Outdoors-Kite-Flying-2.glb",
+    "category": "Outdoors",
+    "subcategory": "Kite Flying",
+    "atomicAction": "Raise kite",
+    "caption": "A child stands on a beach holding a rainbow kite, then raises it above their head and lets it fly.",
+    "captions": [
+      "A child stands on a beach holding a rainbow kite, then raises it above their head and lets it fly.",
+      "A boy on a sandy beach holds a colorful kite, lifts it up into the air, and watches it catch the wind.",
+      "A child on a beach holds a rainbow kite, then throws it into the air and watches it fly.",
+      "A young boy on a beach holds a rainbow kite, raises it above his head, and lets it fly.",
+      "A child stands on a beach holding a rainbow kite, then raises it above their head and lets it fly."
+    ],
+    "dynamicScore": "0.9418",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Parenting-Stroller-Use-0.glb",
+    "category": "Parenting",
+    "subcategory": "Stroller Use",
+    "atomicAction": "Push stroller",
+    "caption": "A person walks forward while pushing a stroller.",
+    "captions": [
+      "A person walks forward while pushing a stroller.",
+      "A woman pushes a baby stroller along a path.",
+      "A person in a white coat walks forward, pushing a stroller.",
+      "A woman walks down a path, pushing a stroller with her right hand.",
+      "A person walks steadily forward, pushing a stroller along a paved path."
+    ],
+    "dynamicScore": "0.8297",
+    "sizeKB": 442.6
+  },
+  {
+    "file": "static/models/Parenting-Play-Facilitation-1.glb",
+    "category": "Parenting",
+    "subcategory": "Play Facilitation",
+    "caption": "A person pushes a child in a swing back and forth at a playground.",
+    "captions": [
+      "A person pushes a child in a swing back and forth at a playground."
+    ],
+    "dynamicScore": "0.4609",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Parenting-Child-Carrying-2.glb",
+    "category": "Parenting",
+    "subcategory": "Child Carrying",
+    "atomicAction": "Carry baby seat",
+    "caption": "A man walks across a room while carrying a baby car seat, then stops and raises his hand to his face as if talking on a phone.",
+    "captions": [
+      "A man walks across a room while carrying a baby car seat, then stops and raises his hand to his face as if talking on a phone.",
+      "A man holding a baby carrier walks from left to right, then pauses and gestures with his hand near his face.",
+      "A man carries a baby seat, walks a few steps, and then stops to make a phone call gesture.",
+      "Walking with a baby seat in hand, the man moves across the space, then halts and mimics a phone conversation.",
+      "A man walks while holding a car seat, then stops and brings his hand to his mouth as if speaking on the phone."
+    ],
+    "dynamicScore": "0.5069",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Performance-Arts-Pantomime-0.glb",
+    "category": "Performance Arts",
+    "subcategory": "Pantomime",
+    "atomicAction": "Gesture with hands",
+    "caption": "A person in a striped shirt and black pants performs a series of theatrical gestures and movements on a gym floor, starting with hands raised, then clapping, making a fist, and finally walking across the court while gesturing.",
+    "captions": [
+      "A person in a striped shirt and black pants performs a series of theatrical gestures and movements on a gym floor, starting with hands raised, then clapping, making a fist, and finally walking across the court while gesturing.",
+      "A man in a striped shirt and black pants moves across a gym floor, starting with his hands up, then clapping, making a fist, and walking to the side while gesturing with his hands.",
+      "A man in a striped shirt and black pants stands in a gym, making various hand gestures and movements, including raising his hands, clapping, and making a fist, then walking across the floor while gesturing.",
+      "A man in a striped shirt and black pants performs a series of movements in a gym, starting with his hands raised, then clapping, making a fist, and walking across the floor while gesturing with his hands.",
+      "A man in a striped shirt and black pants performs a series of movements in a gym, starting with his hands raised, then clapping, making a fist, and walking across the floor while gesturing with his hands."
+    ],
+    "dynamicScore": "0.9488",
+    "sizeKB": 562.1
+  },
+  {
+    "file": "static/models/Performance-Arts-Musical-Theater-1.glb",
+    "category": "Performance Arts",
+    "subcategory": "Musical Theater",
+    "atomicAction": "Play guitar",
+    "caption": "A woman in a red dress stands holding a guitar, strumming and moving her body to the music while turning and dancing around.",
+    "captions": [
+      "A woman in a red dress stands holding a guitar, strumming and moving her body to the music while turning and dancing around.",
+      "A woman plays a guitar, swaying and spinning in place as she performs, with animated animals appearing around her.",
+      "The woman plays her guitar, moving her arms and body rhythmically, then turns and spins away from the camera while continuing to play.",
+      "Holding a guitar, the woman moves her hands to strum and sings, dancing and spinning in a circular motion as she performs.",
+      "A woman stands and plays guitar, swaying side to side, then turns and dances in a circle while continuing to play the instrument."
+    ],
+    "dynamicScore": "0.6253",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Performance-Arts-Combat-Performance-2.glb",
+    "category": "Performance Arts",
+    "subcategory": "Combat Performance",
+    "atomicAction": "Walk across stage",
+    "caption": "A person in a long coat walks slowly across a stage, holding two staffs.",
+    "captions": [
+      "A person in a long coat walks slowly across a stage, holding two staffs.",
+      "A costumed figure strides forward on stage, wielding long poles, with a large screen behind them.",
+      "The individual moves steadily from left to right, carrying two long weapons, their coat flowing as they walk.",
+      "A person in a dramatic outfit walks across the stage, holding two long poles, while a video plays on a screen behind them.",
+      "The character walks with a purposeful gait, holding two staffs, as they move across the stage under spotlights."
+    ],
+    "dynamicScore": "0.6277",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Personal-Care-Body-Drying-0.glb",
+    "category": "Personal Care",
+    "subcategory": "Body Drying",
+    "atomicAction": "Wipe face with towel",
+    "caption": "A woman stands on a mat, wipes her face with a towel, and then puts it down.",
+    "captions": [
+      "A woman stands on a mat, wipes her face with a towel, and then puts it down.",
+      "The woman wipes her face with a towel, then places it on the floor.",
+      "A woman wipes her face with a towel, then drops it to the ground.",
+      "After wiping her face with a towel, the woman places it on the floor.",
+      "The woman wipes her face with a towel and then drops it on the floor."
+    ],
+    "dynamicScore": "0.6838",
+    "sizeKB": 592.6
+  },
+  {
+    "file": "static/models/Personal-Care-Hand-Sanitizing-1.glb",
+    "category": "Personal Care",
+    "subcategory": "Hand Sanitizing",
+    "caption": "A person walks to a counter, dispenses hand sanitizer, and rubs their hands together thoroughly.",
+    "captions": [
+      "A person walks to a counter, dispenses hand sanitizer, and rubs their hands together thoroughly."
+    ],
+    "dynamicScore": "0.3861",
+    "sizeKB": 456.7
+  },
+  {
+    "file": "static/models/Personal-Care-Self-Massage-2.glb",
+    "category": "Personal Care",
+    "subcategory": "Self Massage",
+    "atomicAction": "Massage back",
+    "caption": "A person in a gold outfit stands beside a massage table, moving their hands over another person lying face down, adjusting their position and applying pressure.",
+    "captions": [
+      "A person in a gold outfit stands beside a massage table, moving their hands over another person lying face down, adjusting their position and applying pressure.",
+      "A woman in a gold bodysuit stands next to a man on a massage table, leaning over him and using her hands to massage his back and shoulders.",
+      "A person in a shiny gold outfit stands behind a man lying on a massage table, using their hands to rub and adjust his back and shoulders.",
+      "A woman in a gold swimsuit stands beside a man on a massage table, moving her hands along his back and adjusting his position as she gives him a massage.",
+      "A person in a gold bodysuit stands at the side of a massage table, using their hands to massage the back of a man lying face down, occasionally adjusting his position."
+    ],
+    "dynamicScore": "0.5925",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Pet-Care-Leash-Training-0.glb",
+    "category": "Pet Care",
+    "subcategory": "Leash Training",
+    "atomicAction": "Hold leash",
+    "caption": "A man walks forward while holding a leash and gestures with his hand.",
+    "captions": [
+      "A man walks forward while holding a leash and gestures with his hand.",
+      "A man walks across a driveway, holding a leash and making hand motions as he moves.",
+      "A man walks forward, holding a leash in one hand and gesturing with the other, moving from under a tent toward a house.",
+      "Walking with a leash in hand, the man gestures with his free hand as he moves across the driveway.",
+      "The man walks forward, holding a leash and using hand gestures, moving from under a canopy toward the house."
+    ],
+    "dynamicScore": "0.8812",
+    "sizeKB": 460.2
+  },
+  {
+    "file": "static/models/Pet-Care-Puppy-Training-1.glb",
+    "category": "Pet Care",
+    "subcategory": "Puppy Training",
+    "caption": "A man kneels on the floor, holding a treat and gesturing with his hands as a small puppy moves around him, occasionally approaching and sniffing his hand.",
+    "captions": [
+      "A man kneels on the floor, holding a treat and gesturing with his hands as a small puppy moves around him, occasionally approaching and sniffing his hand."
+    ],
+    "dynamicScore": "0.2694",
+    "sizeKB": 639.5
+  },
+  {
+    "file": "static/models/Pet-Care-Pet-Feeding-2.glb",
+    "category": "Pet Care",
+    "subcategory": "Pet Feeding",
+    "caption": "A person bends down to pick up a bowl, then stands up while holding it and a piece of food, looking at a dog.",
+    "captions": [
+      "A person bends down to pick up a bowl, then stands up while holding it and a piece of food, looking at a dog."
+    ],
+    "dynamicScore": "0.3220",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Photography-Fashion-Photography-0.glb",
+    "category": "Photography",
+    "subcategory": "Fashion Photography",
+    "caption": "A woman stands and poses, holding a small bag, then shifts her weight and moves slightly while smiling.",
+    "captions": [
+      "A woman stands and poses, holding a small bag, then shifts her weight and moves slightly while smiling."
+    ],
+    "dynamicScore": "0.3264",
+    "sizeKB": 478.1
+  },
+  {
+    "file": "static/models/Photography-Lighting-Setup-1.glb",
+    "category": "Photography",
+    "subcategory": "Lighting Setup",
+    "caption": "A man unfolds a collapsible softbox, lifting and adjusting its panels to form a box shape.",
+    "captions": [
+      "A man unfolds a collapsible softbox, lifting and adjusting its panels to form a box shape."
+    ],
+    "dynamicScore": "0.3677",
+    "sizeKB": 651.2
+  },
+  {
+    "file": "static/models/Photography-Landscape-Photography-2.glb",
+    "category": "Photography",
+    "subcategory": "Landscape Photography",
+    "atomicAction": "Walk with camera",
+    "caption": "A person walks down a grassy path, carrying a camera and wearing a backpack.",
+    "captions": [
+      "A person walks down a grassy path, carrying a camera and wearing a backpack.",
+      "A photographer walks through a field at sunrise, holding a camera and wearing a backpack.",
+      "A person walks along a path with a camera in hand, moving away from the camera through a sunlit field.",
+      "A man walks through a field, carrying a camera and wearing a backpack, with the sun shining brightly behind him.",
+      "A person walks down a grassy trail carrying a camera, with the sun casting a bright glow over the scene."
+    ],
+    "dynamicScore": "0.6790",
+    "sizeKB": 442.2
+  },
+  {
+    "file": "static/models/Rehabilitation-Transfer-Training-0.glb",
+    "category": "Rehabilitation",
+    "subcategory": "Transfer Training",
+    "caption": "A woman stands on a step, uses a cane for support, steps down, and then turns to face the camera.",
+    "captions": [
+      "A woman stands on a step, uses a cane for support, steps down, and then turns to face the camera."
+    ],
+    "dynamicScore": "0.4276",
+    "sizeKB": 515.2
+  },
+  {
+    "file": "static/models/Rehabilitation-Foot-Therapy-1.glb",
+    "category": "Rehabilitation",
+    "subcategory": "Foot Therapy",
+    "caption": "A man rolls a towel on the floor, then bends down to place it under his toes while standing barefoot.",
+    "captions": [
+      "A man rolls a towel on the floor, then bends down to place it under his toes while standing barefoot."
+    ],
+    "dynamicScore": "0.3823",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Rehabilitation-Gait-Training-2.glb",
+    "category": "Rehabilitation",
+    "subcategory": "Gait Training",
+    "atomicAction": "Walk with cane",
+    "caption": "A person uses a cane to walk slowly across a room, shifting their weight from one foot to the other while keeping a hand on their chest.",
+    "captions": [
+      "A person uses a cane to walk slowly across a room, shifting their weight from one foot to the other while keeping a hand on their chest.",
+      "Walking with a cane, the individual moves side to side in a controlled manner, maintaining balance and using the cane for support.",
+      "The person steps forward with one foot, then the other, using the cane to assist with movement and stability as they shift their weight.",
+      "Using a cane for support, the individual walks in a slow, deliberate pattern, stepping from side to side while keeping a hand on their chest.",
+      "The person moves across the floor using a cane, stepping carefully and shifting their weight while maintaining balance and support."
+    ],
+    "dynamicScore": "0.7169",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Religious-Rituals-Burial-Practices-0.glb",
+    "category": "Religious Rituals",
+    "subcategory": "Burial Practices",
+    "caption": "A man in a suit is turning a crank to slowly lower a coffin into the ground.",
+    "captions": [
+      "A man in a suit is turning a crank to slowly lower a coffin into the ground."
+    ],
+    "dynamicScore": "0.4389",
+    "sizeKB": 590.3
+  },
+  {
+    "file": "static/models/Religious-Rituals-Ceremonial-Vessels-1.glb",
+    "category": "Religious Rituals",
+    "subcategory": "Ceremonial Vessels",
+    "caption": "A man in a white robe picks up a shell, lifts it to his forehead, then drinks from it.",
+    "captions": [
+      "A man in a white robe picks up a shell, lifts it to his forehead, then drinks from it."
+    ],
+    "dynamicScore": "0.3260",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Religious-Rituals-Prayer-Postures-2.glb",
+    "category": "Religious Rituals",
+    "subcategory": "Prayer Postures",
+    "caption": "A person in traditional clothing bows deeply, then stands and brings their hands together in front of their face in a prayer-like gesture.",
+    "captions": [
+      "A person in traditional clothing bows deeply, then stands and brings their hands together in front of their face in a prayer-like gesture."
+    ],
+    "dynamicScore": "0.3248",
+    "sizeKB": 439.8
+  },
+  {
+    "file": "static/models/Repair-Vehicle-Repair-0.glb",
+    "category": "Repair",
+    "subcategory": "Vehicle Repair",
+    "caption": "A man in a blue shirt and shorts stands beside a yellow motorcycle, adjusting the handlebars and then bending down to check the engine area.",
+    "captions": [
+      "A man in a blue shirt and shorts stands beside a yellow motorcycle, adjusting the handlebars and then bending down to check the engine area."
+    ],
+    "dynamicScore": "0.4297",
+    "sizeKB": 487.1
+  },
+  {
+    "file": "static/models/Repair-HVAC-Repair-1.glb",
+    "category": "Repair",
+    "subcategory": "HVAC Repair",
+    "caption": "A man kneels beside a large HVAC unit, using a power drill to remove screws from its side panel. He works methodically, unscrewing each fastener and then pulling the panel away to expose the internal components. After setting the panel aside, he continues to inspect and manipulate the unit's interior, adjusting wires and parts with his hands. He remains focused and deliberate throughout, occasionally shifting his position to access different areas of the machinery.",
+    "captions": [
+      "A man kneels beside a large HVAC unit, using a power drill to remove screws from its side panel. He works methodically, unscrewing each fastener and then pulling the panel away to expose the internal components. After setting the panel aside, he continues to inspect and manipulate the unit's interior, adjusting wires and parts with his hands. He remains focused and deliberate throughout, occasionally shifting his position to access different areas of the machinery."
+    ],
+    "dynamicScore": "0.3821",
+    "sizeKB": 545.3
+  },
+  {
+    "file": "static/models/Repair-Structural-Repair-2.glb",
+    "category": "Repair",
+    "subcategory": "Structural Repair",
+    "caption": "A man stands in a doorway, reaching up with a tool to work on the top of the door frame.",
+    "captions": [
+      "A man stands in a doorway, reaching up with a tool to work on the top of the door frame."
+    ],
+    "dynamicScore": "0.3866",
+    "sizeKB": 488.3
+  },
+  {
+    "file": "static/models/Safety-Drills-PPE-Drill-0.glb",
+    "category": "Safety Drills",
+    "subcategory": "PPE Drill",
+    "atomicAction": "Put on harness",
+    "caption": "A man puts on a safety harness, adjusting the straps and then gestures with his hands while standing in a black-walled room.",
+    "captions": [
+      "A man puts on a safety harness, adjusting the straps and then gestures with his hands while standing in a black-walled room.",
+      "The man is seen putting on a harness, securing it around his waist and shoulders, then turns to face the camera and uses hand gestures as he speaks.",
+      "A person puts on a harness, fastening it securely, then stands facing the camera and moves his hands expressively while talking.",
+      "The man adjusts a harness around his body, ensuring it's properly fitted, then stands upright and gestures with his hands as if explaining something.",
+      "A man in a black shirt and jeans puts on a safety harness, fastens the straps, and then stands in front of the camera, using hand movements to emphasize his words."
+    ],
+    "dynamicScore": "0.5251",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Safety-Drills-Fire-Drill-1.glb",
+    "category": "Safety Drills",
+    "subcategory": "Fire Drill",
+    "caption": "A person in a firefighter uniform turns and points at a sign.",
+    "captions": [
+      "A person in a firefighter uniform turns and points at a sign."
+    ],
+    "dynamicScore": "0.4930",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Safety-Drills-Workplace-Safety-Drill-2.glb",
+    "category": "Safety Drills",
+    "subcategory": "Workplace Safety Drill",
+    "atomicAction": "Stand in front of forklift",
+    "caption": "A man in a high-vis jacket walks into frame, stops in front of a forklift and shelves, and stands still while looking at the camera.",
+    "captions": [
+      "A man in a high-vis jacket walks into frame, stops in front of a forklift and shelves, and stands still while looking at the camera.",
+      "A worker in a reflective jacket walks over to a forklift, then turns and stands facing the camera with his hands in his pockets.",
+      "A man in a safety jacket walks from the left side of the frame, stops in front of a shelving unit, and stands still with his hands in his pockets.",
+      "A man in a high-visibility jacket walks toward the camera, stops beside a forklift, and remains standing in place.",
+      "A man in a reflective jacket walks into the scene, stops in front of a forklift and storage racks, and stands with his hands in his pockets."
+    ],
+    "dynamicScore": "0.5230",
+    "sizeKB": 510.6
+  },
+  {
+    "file": "static/models/Science-Field-Research-0.glb",
+    "category": "Science",
+    "subcategory": "Field Research",
+    "atomicAction": "Walk across terrain",
+    "caption": "An astronaut in a white spacesuit walks forward across a rocky, barren landscape.",
+    "captions": [
+      "An astronaut in a white spacesuit walks forward across a rocky, barren landscape.",
+      "A person in a spacesuit walks steadily toward the camera on a desolate alien planet.",
+      "A lone astronaut walks across a rugged, gray terrain, moving from a distance toward the viewer.",
+      "The astronaut slowly advances across the uneven ground, approaching the camera with deliberate steps.",
+      "Walking across a rocky, extraterrestrial surface, the astronaut moves forward with a steady gait."
+    ],
+    "dynamicScore": "0.8801",
+    "sizeKB": 488.7
+  },
+  {
+    "file": "static/models/Science-Scientific-Documentation-1.glb",
+    "category": "Science",
+    "subcategory": "Scientific Documentation",
+    "caption": "A woman kneels in the dirt and writes in a notebook.",
+    "captions": [
+      "A woman kneels in the dirt and writes in a notebook."
+    ],
+    "dynamicScore": "0.3584",
+    "sizeKB": 434.3
+  },
+  {
+    "file": "static/models/Science-Biological-Sampling-2.glb",
+    "category": "Science",
+    "subcategory": "Biological Sampling",
+    "caption": "A person in a blue shirt and shorts stands in a shallow canal, holding a blue net and reaching into the water with one hand, then lifting it out as water drips back into the stream.",
+    "captions": [
+      "A person in a blue shirt and shorts stands in a shallow canal, holding a blue net and reaching into the water with one hand, then lifting it out as water drips back into the stream."
+    ],
+    "dynamicScore": "0.3396",
+    "sizeKB": 434.7
+  },
+  {
+    "file": "static/models/Shopping-Window-Shopping-0.glb",
+    "category": "Shopping",
+    "subcategory": "Window Shopping",
+    "atomicAction": "Look at buildings",
+    "caption": "A woman walks down a sidewalk carrying bags, looking around as she moves forward.",
+    "captions": [
+      "A woman walks down a sidewalk carrying bags, looking around as she moves forward.",
+      "A woman walks along a narrow street, holding shopping bags and glancing at her surroundings.",
+      "A woman walks steadily down a city sidewalk, carrying a tote and a black bag, occasionally looking to her right.",
+      "A woman walks down a quiet street, carrying bags in both hands and looking around at the buildings and signs.",
+      "A woman walks forward on a sidewalk, holding bags and scanning the area, passing by a building with a green sign."
+    ],
+    "dynamicScore": "0.6509",
+    "sizeKB": 446.5
+  },
+  {
+    "file": "static/models/Shopping-Department-Store-Shopping-1.glb",
+    "category": "Shopping",
+    "subcategory": "Department Store Shopping",
+    "atomicAction": "Carry shopping bags",
+    "caption": "A woman walks down a sidewalk, carrying shopping bags and a backpack, then turns to look at the camera before continuing on her way.",
+    "captions": [
+      "A woman walks down a sidewalk, carrying shopping bags and a backpack, then turns to look at the camera before continuing on her way.",
+      "A person walks along a city street, holding bags, turns around to face the camera briefly, then keeps walking.",
+      "A woman walks past a building, holding shopping bags, turns her head to look back, and continues walking.",
+      "A woman with a backpack and shopping bags walks down the sidewalk, turns to look at the camera, then turns back and walks away.",
+      "A woman walks along a sidewalk, carrying shopping bags, turns around to look at the camera, then turns back and continues walking."
+    ],
+    "dynamicScore": "1.2916",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Shopping-Pharmacy-Shopping-2.glb",
+    "category": "Shopping",
+    "subcategory": "Pharmacy Shopping",
+    "atomicAction": "Pick up bottle",
+    "caption": "A man in a striped shirt walks down a pharmacy aisle, picks up a bottle from a shelf, and then turns to face the camera while holding it.",
+    "captions": [
+      "A man in a striped shirt walks down a pharmacy aisle, picks up a bottle from a shelf, and then turns to face the camera while holding it.",
+      "The man reaches for a medicine bottle on the shelf, takes it down, and walks toward the camera while holding it in his hand.",
+      "A man moves through a pharmacy aisle, grabs a pill bottle from a shelf, and walks forward while looking at the camera.",
+      "Walking down the aisle, the man selects a bottle from the shelf, holds it up, and continues toward the camera.",
+      "The man stands in a pharmacy, takes a bottle from a shelf, and walks forward while holding the bottle and looking at the camera."
+    ],
+    "dynamicScore": "0.6532",
+    "sizeKB": 428.5
+  },
+  {
+    "file": "static/models/Sign-Language-Sign-Interpretation-0.glb",
+    "category": "Sign Language",
+    "subcategory": "Sign Interpretation",
+    "caption": "A woman at a desk uses sign language while wearing a headset and talking.",
+    "captions": [
+      "A woman at a desk uses sign language while wearing a headset and talking."
+    ],
+    "dynamicScore": "0.2648",
+    "sizeKB": 514.5
+  },
+  {
+    "file": "static/models/Sign-Language-Sign-Teaching-1.glb",
+    "category": "Sign Language",
+    "subcategory": "Sign Teaching",
+    "caption": "A person sits and uses hand gestures to sign, pointing and moving their hands to communicate.",
+    "captions": [
+      "A person sits and uses hand gestures to sign, pointing and moving their hands to communicate."
+    ],
+    "dynamicScore": "0.3106",
+    "sizeKB": 646.9
+  },
+  {
+    "file": "static/models/Sign-Language-ASL-Conversation-2.glb",
+    "category": "Sign Language",
+    "subcategory": "ASL Conversation",
+    "caption": "A person stands and signs with their hands, making a series of gestures that form a sentence, ending with a thumbs-up motion.",
+    "captions": [
+      "A person stands and signs with their hands, making a series of gestures that form a sentence, ending with a thumbs-up motion."
+    ],
+    "dynamicScore": "0.0598",
+    "sizeKB": 428.5
+  },
+  {
+    "file": "static/models/Social-Interaction-Teaching-Moment-0.glb",
+    "category": "Social Interaction",
+    "subcategory": "Teaching Moment",
+    "caption": "A woman stands in a grassy yard with a dog, holding a treat and gesturing with her hands while talking.",
+    "captions": [
+      "A woman stands in a grassy yard with a dog, holding a treat and gesturing with her hands while talking."
+    ],
+    "dynamicScore": "0.4036",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Social-Interaction-Small-Talk-1.glb",
+    "category": "Social Interaction",
+    "subcategory": "Small Talk",
+    "caption": "A man in a blue shirt bends down to pet a small puppy on a leash, then stands up and talks while holding the leash.",
+    "captions": [
+      "A man in a blue shirt bends down to pet a small puppy on a leash, then stands up and talks while holding the leash."
+    ],
+    "dynamicScore": "0.3765",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Social-Interaction-Family-Interaction-2.glb",
+    "category": "Social Interaction",
+    "subcategory": "Family Interaction",
+    "atomicAction": "Pet puppy",
+    "caption": "A man bends down to pet a puppy on a deck, then stands up and claps his hands together.",
+    "captions": [
+      "A man bends down to pet a puppy on a deck, then stands up and claps his hands together.",
+      "On a wooden deck, a man leans over to touch a lying puppy, then straightens up and claps his hands.",
+      "A man interacts with a puppy on a deck, first bending down to touch it and then standing up to clap his hands.",
+      "The man bends over to pet the puppy, then stands and claps his hands together while the puppy stays lying down.",
+      "A man bends to pet a puppy on the deck, then stands and claps his hands as the puppy remains in place."
+    ],
+    "dynamicScore": "0.6155",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Sport-Volleyball-0.glb",
+    "category": "Sport",
+    "subcategory": "Volleyball",
+    "atomicAction": "Jump and serve ball",
+    "caption": "A person in a gym starts in a ready stance, then jumps and swings their arms forward as if serving a ball.",
+    "captions": [
+      "A person in a gym starts in a ready stance, then jumps and swings their arms forward as if serving a ball.",
+      "The person crouches low, then springs upward while extending their arms forward in a serving motion.",
+      "Starting in a low athletic stance, the individual jumps and drives their arms forward in a powerful serve motion.",
+      "A person shifts from a crouched position to a jumping motion, extending their arms forward as if hitting a volleyball.",
+      "The individual begins in a low squat, then leaps into the air while pushing their arms forward in a serving motion."
+    ],
+    "dynamicScore": "1.2177",
+    "sizeKB": 451.9
+  },
+  {
+    "file": "static/models/Sport-Throwing-Sports-1.glb",
+    "category": "Sport",
+    "subcategory": "Throwing Sports",
+    "atomicAction": "Throw javelin",
+    "caption": "A man runs forward on a track while holding a javelin, preparing to throw it.",
+    "captions": [
+      "A man runs forward on a track while holding a javelin, preparing to throw it.",
+      "The athlete takes a few steps forward, building momentum as he holds the javelin high, then launches into a powerful throw.",
+      "A man in black athletic gear runs down the track, raising a javelin behind his head before releasing it into the air.",
+      "Starting from a standstill, the man begins to jog, swings the javelin back, and then sprints forward to release it with force.",
+      "The man walks forward, then breaks into a run, bringing the javelin back over his shoulder and throwing it down the field."
+    ],
+    "dynamicScore": "1.9453",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Sport-Skateboarding-2.glb",
+    "category": "Sport",
+    "subcategory": "Skateboarding",
+    "atomicAction": "Grind rail",
+    "caption": "A person rides a skateboard toward a rail, ollies onto it, slides along the rail, and then jumps off to land back on the ground.",
+    "captions": [
+      "A person rides a skateboard toward a rail, ollies onto it, slides along the rail, and then jumps off to land back on the ground.",
+      "The skater approaches the rail, pops the board up, grinds along the rail with balance, and then jumps off to continue skating.",
+      "A skateboarder performs a grind on a rail by jumping onto it, sliding across while maintaining balance, and then landing back on the ground.",
+      "The person rides the skateboard, jumps onto the rail, slides across it, and then dismounts smoothly to continue riding.",
+      "Approaching the rail, the skater jumps and lands on it, slides along the length of the rail, and then jumps off to land and ride away."
+    ],
+    "dynamicScore": "0.9399",
+    "sizeKB": 454.3
+  },
+  {
+    "file": "static/models/Survival-Skills-Shelter-Construction-0.glb",
+    "category": "Survival Skills",
+    "subcategory": "Shelter Construction",
+    "caption": "A person in a forest is building a shelter out of leaves and sticks, shaping a dome-like structure and packing the materials tightly.",
+    "captions": [
+      "A person in a forest is building a shelter out of leaves and sticks, shaping a dome-like structure and packing the materials tightly."
+    ],
+    "dynamicScore": "0.4411",
+    "sizeKB": 498.1
+  },
+  {
+    "file": "static/models/Survival-Skills-Navigation-1.glb",
+    "category": "Survival Skills",
+    "subcategory": "Navigation",
+    "caption": "A man walks slowly across rocky terrain, holding a long stick and scanning the ground as he moves.",
+    "captions": [
+      "A man walks slowly across rocky terrain, holding a long stick and scanning the ground as he moves."
+    ],
+    "dynamicScore": "0.4598",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Survival-Skills-Self-Defense-2.glb",
+    "category": "Survival Skills",
+    "subcategory": "Self-Defense",
+    "caption": "A person in a black outfit walks slowly and carefully through grass, lifting their feet high with each step, mimicking a stealthy movement.",
+    "captions": [
+      "A person in a black outfit walks slowly and carefully through grass, lifting their feet high with each step, mimicking a stealthy movement."
+    ],
+    "dynamicScore": "0.4002",
+    "sizeKB": 624.2
+  },
+  {
+    "file": "static/models/Testing-Textile-Durability-0.glb",
+    "category": "Testing",
+    "subcategory": "Textile Durability",
+    "caption": "A man picks up a green strap and stretches it out with both hands, pulling it taut while looking at the camera.",
+    "captions": [
+      "A man picks up a green strap and stretches it out with both hands, pulling it taut while looking at the camera."
+    ],
+    "dynamicScore": "0.3740",
+    "sizeKB": 498.8
+  },
+  {
+    "file": "static/models/Testing-Environmental-Monitors-1.glb",
+    "category": "Testing",
+    "subcategory": "Environmental Monitors",
+    "caption": "A person in a green jacket uses a long pole to probe the snow, moving it back and forth and pushing it into the snowpack.",
+    "captions": [
+      "A person in a green jacket uses a long pole to probe the snow, moving it back and forth and pushing it into the snowpack."
+    ],
+    "dynamicScore": "0.3931",
+    "sizeKB": 650.8
+  },
+  {
+    "file": "static/models/Testing-Construction-Materials-2.glb",
+    "category": "Testing",
+    "subcategory": "Construction Materials",
+    "caption": "A man stands at the back of a truck, picking up small rocks from a pile and examining them in his hands.",
+    "captions": [
+      "A man stands at the back of a truck, picking up small rocks from a pile and examining them in his hands."
+    ],
+    "dynamicScore": "0.4619",
+    "sizeKB": 475.4
+  },
+  {
+    "file": "static/models/Tool-Use-Power-Tool-0.glb",
+    "category": "Tool Use",
+    "subcategory": "Power Tool",
+    "atomicAction": "Hold power tool",
+    "caption": "A man walks through a doorway carrying a power tool and a tool bag, then stops and holds up the tool while looking at the camera.",
+    "captions": [
+      "A man walks through a doorway carrying a power tool and a tool bag, then stops and holds up the tool while looking at the camera.",
+      "A man enters a room from a doorway, holding a power tool and a tool belt, then turns to face the camera while holding the tool up.",
+      "A man walks into a room through a doorway, carrying a power tool in one hand and a tool bag in the other, then stops and presents the tool to the camera.",
+      "A man steps through a doorway into a room, holding a power tool and a tool bag, then turns and holds the tool up while facing the camera.",
+      "A man walks through a doorway into a room, holding a power tool and a tool bag, then stops and holds the tool up toward the camera."
+    ],
+    "dynamicScore": "0.5816",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Tool-Use-Inspection-Tool-1.glb",
+    "category": "Tool Use",
+    "subcategory": "Inspection Tool",
+    "caption": "A person bends over to look at a skateboard, then stands up straight and takes a step back.",
+    "captions": [
+      "A person bends over to look at a skateboard, then stands up straight and takes a step back."
+    ],
+    "dynamicScore": "0.4859",
+    "sizeKB": 527.8
+  },
+  {
+    "file": "static/models/Tool-Use-Gardening-Tool-2.glb",
+    "category": "Tool Use",
+    "subcategory": "Gardening Tool",
+    "caption": "A person stands by a creek holding a fishing rod and a lure, moving the lure up and down while talking.",
+    "captions": [
+      "A person stands by a creek holding a fishing rod and a lure, moving the lure up and down while talking."
+    ],
+    "dynamicScore": "0.4787",
+    "sizeKB": 510.6
+  },
+  {
+    "file": "static/models/Transportation-E-Scooter-Travel-0.glb",
+    "category": "Transportation",
+    "subcategory": "E Scooter Travel",
+    "atomicAction": "Ride scooter",
+    "caption": "A person rides a scooter down a wooden ramp, then stops and stands while gesturing with their hands.",
+    "captions": [
+      "A person rides a scooter down a wooden ramp, then stops and stands while gesturing with their hands.",
+      "The individual starts on a scooter at the top of a ramp, rides down, and then steps off, standing and using hand gestures.",
+      "A person descends a ramp on a scooter, then dismounts and stands in front, making various hand movements.",
+      "Riding a scooter down a ramp, the person comes to a stop, steps off, and then gestures with their hands while standing.",
+      "Starting on a scooter, the person rides down a ramp, gets off, and then stands while making hand gestures."
+    ],
+    "dynamicScore": "1.1029",
+    "sizeKB": 463.7
+  },
+  {
+    "file": "static/models/Transportation-Car-Travel-1.glb",
+    "category": "Transportation",
+    "subcategory": "Car Travel",
+    "atomicAction": "Step out of car",
+    "caption": "A man sits in a car, then stands up and steps out, walking away from the open door.",
+    "captions": [
+      "A man sits in a car, then stands up and steps out, walking away from the open door.",
+      "A man gets out of a car by standing up and stepping out, then walks away from the vehicle.",
+      "A man is in a car, then he stands up, steps out, and walks away from the open car door.",
+      "The man gets out of the car by standing up and stepping out, then walks away from the vehicle.",
+      "A man gets out of a car, stands up, steps out, and walks away from the open car door."
+    ],
+    "dynamicScore": "0.9086",
+    "sizeKB": 470.3
+  },
+  {
+    "file": "static/models/Transportation-Handcart-Pushing-2.glb",
+    "category": "Transportation",
+    "subcategory": "Handcart Pushing",
+    "atomicAction": "Push cart",
+    "caption": "A man wearing a straw hat walks down a narrow alley while pushing a two-wheeled cart.",
+    "captions": [
+      "A man wearing a straw hat walks down a narrow alley while pushing a two-wheeled cart.",
+      "A person in a wide-brimmed hat pushes a cart along a stone path between old brick walls.",
+      "A man walks forward steadily, pulling a small cart behind him through a rustic alleyway.",
+      "Walking through a narrow passage, a man in a conical hat pulls a wooden cart with two wheels.",
+      "A man pulls a cart along a cobblestone alley, moving steadily toward the camera between weathered brick walls."
+    ],
+    "dynamicScore": "0.6436",
+    "sizeKB": 440.2
+  },
+  {
+    "file": "static/models/Video-Games-Rhythm-Games-0.glb",
+    "category": "Video Games",
+    "subcategory": "Rhythm Games",
+    "atomicAction": "Play guitar controller",
+    "caption": "A person in a hoodie stands and plays a guitar controller, moving their arms and body to the music.",
+    "captions": [
+      "A person in a hoodie stands and plays a guitar controller, moving their arms and body to the music.",
+      "The person strums the guitar controller while swaying and raising their arms in rhythm.",
+      "Someone is playing a guitar game, moving their hands and body energetically as they play.",
+      "A person plays a guitar-shaped controller, dancing and moving their arms up and down in a room.",
+      "The individual plays a guitar game, standing and moving their arms and body in time with the music."
+    ],
+    "dynamicScore": "0.6101",
+    "sizeKB": 534.0
+  },
+  {
+    "file": "static/models/Video-Games-Virtual-Reality-1.glb",
+    "category": "Video Games",
+    "subcategory": "Virtual Reality",
+    "atomicAction": "Swing lightsabers",
+    "caption": "A person in a virtual reality game swings two glowing lightsabers, cutting through colored arrows that fly toward them in different directions.",
+    "captions": [
+      "A person in a virtual reality game swings two glowing lightsabers, cutting through colored arrows that fly toward them in different directions.",
+      "The player stands on a platform, using red and blue lightsabers to slice through incoming colored blocks and arrows, moving their arms and body to hit them accurately.",
+      "In a dark, futuristic setting, a person uses virtual reality controllers to wield lightsabers, cutting through arrows that appear in the air and matching their color and direction.",
+      "The individual performs a series of slashing motions with two lightsabers, reacting to on-screen prompts by cutting arrows that move in various directions and match specific colors.",
+      "A person in VR actively swings two lightsabers, cutting through colored geometric shapes and arrows that appear in front of them, following on-screen instructions to match color and direction."
+    ],
+    "dynamicScore": "0.5252",
+    "sizeKB": 542.6
+  },
+  {
+    "file": "static/models/Video-Games-Platformers-2.glb",
+    "category": "Video Games",
+    "subcategory": "Platformers",
+    "atomicAction": "Step on platforms",
+    "caption": "A person crouches and moves forward through a neon-lit corridor, stepping on glowing platforms while holding a light saber-like object.",
+    "captions": [
+      "A person crouches and moves forward through a neon-lit corridor, stepping on glowing platforms while holding a light saber-like object.",
+      "The individual walks forward in a low stance, navigating a dark environment with glowing red and blue lines, passing through a large neon cube structure.",
+      "Crouching low, the person advances through a futuristic space, stepping on illuminated paths and moving toward a glowing cube as they hold a light stick.",
+      "The character moves forward in a crouched position, stepping on glowing lines and passing through a neon cube, holding a light-emitting object.",
+      "A person crouches and steps carefully across glowing platforms, moving through a neon-lit tunnel and approaching a large illuminated cube while holding a light saber."
+    ],
+    "dynamicScore": "0.6282",
+    "sizeKB": 451.2
+  }
+]

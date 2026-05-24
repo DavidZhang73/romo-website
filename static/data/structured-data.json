@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation",
+  "description": "RoMo is a large-scale human motion dataset with rich captions, a 3-level semantic taxonomy, and taxonomy-aware filtering for stronger motion generation.",
+  "datePublished": "2026",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  },
+  "url": "https://davidzhang73.github.io/romo-website/",
+  "keywords": [
+    "human motion generation",
+    "motion dataset",
+    "semantic taxonomy",
+    "text-to-motion",
+    "computer vision"
+  ],
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+}

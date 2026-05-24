@@ -42,14 +42,16 @@ static/
 .claude/launch.json     # local preview server config
 ```
 
-Data is embedded directly in `index.html` as three inline JSON blocks (no separate
-files, works over `file://` too):
+Page data lives in `static/data/` so the first HTML response stays small:
 
-- `<script type="application/json" id="motions-data">` — gallery manifest
-- `<script type="application/json" id="taxonomy-data">` — `{totals, categories:[{name,count,subcategories:[...]}]}`
-- `<script type="application/json" id="stats-data">` — headline numbers + dataSources + comparison (Table 1)
+- `static/data/motions.json` — gallery manifest
+- `static/data/stats.json` — headline numbers + dataSources + comparison (Table 1)
+- `static/data/taxonomy.json` — generated three-level taxonomy:
+  `{totals, categories:[{name,count,subcategories:[{name,count}]}]}`
+- `static/data/structured-data.json` — JSON-LD metadata injected after first paint
 
-`app.js`'s `load()` reads these by id, falling back to `fetch()` if absent.
+`app.js` lazy-loads these JSON files and the heavy visualization libraries when
+their sections approach the viewport.
 
 ## Run locally
 
@@ -68,14 +70,18 @@ Any static server works (`npx serve`, etc.). Just open `index.html` over HTTP (n
 
 ### Editing the data
 
-Edit the inline JSON blocks in `index.html` (search for `id="..."-data`):
+Edit the JSON files in `static/data/`:
 
-- **Gallery**: add a `.glb` to `static/models/` and append an entry to `motions-data`.
-- **Taxonomy** (mind-map + sunburst): `taxonomy-data`.
-- **Stat counters / comparison chart / source pie**: `stats-data`.
+- **Gallery**: add a `.glb` to `static/models/` and append an entry to `static/data/motions.json`.
+- **Taxonomy** (mind-map + sunburst + per-category counts): run
+  `python3 scripts/build_taxonomy.py` to regenerate `static/data/taxonomy.json`
+  from the RoMo supplementary visualization HTML files.
+- **Stat counters / comparison chart / source pie**: `static/data/stats.json`.
 - **Filtering pipeline** steps: the `<article class="pstep">` blocks in the `#pipeline` section (`data-hours`, `data-drop`, `data-name` drive the funnel).
 
-> Note: gallery + per-category counts derive from a representative subset; headline numbers (813,938 sequences, 54 categories, 2,065 subcategories, 28,874 atomic actions, 1,238 h) come from the paper. The comparison/source numbers are from Table 1 & Fig. 4 of the paper.
+> Note: gallery examples derive from a representative subset. Taxonomy views and
+> per-category counts derive from the RoMo supplementary visualization data.
+> Headline release numbers and comparison/source numbers come from the paper.
 
 ## Deploy
 

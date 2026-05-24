@@ -1,0 +1,105 @@
+{
+  "sequences": 813938,
+  "categories": 54,
+  "subcategories": 2065,
+  "atomicActions": 28874,
+  "totalDurationHours": 1238,
+  "totalDurationHoursAll": 3023,
+  "captionsPerClip": 5,
+  "avgFrames": 165,
+  "medianFrames": 114,
+  "fps": 30,
+  "rawHoursProcessed": 125300,
+  "retainedHours": 1300,
+  "retainedFraction": 0.01,
+  "source": "CVPR 2026 RoMo paper (Table 1, Sec. 3-4, Fig. 4)",
+  "dataSources": [
+    {
+      "name": "YouTube",
+      "sequences": 582771,
+      "pct": 70.4,
+      "display": "583K"
+    },
+    {
+      "name": "HOIGen",
+      "sequences": 110266,
+      "pct": 13.3,
+      "display": "110K"
+    },
+    {
+      "name": "K700-2020",
+      "sequences": 69847,
+      "pct": 8.4,
+      "display": "70K"
+    },
+    {
+      "name": "VideoUFO",
+      "sequences": 41103,
+      "pct": 5.0,
+      "display": "41K"
+    },
+    {
+      "name": "Openvid-1M",
+      "sequences": 8512,
+      "pct": 1.0,
+      "display": "8.5K"
+    },
+    {
+      "name": "OpenHumanVid",
+      "sequences": 15859,
+      "pct": 1.9,
+      "display": "16K"
+    }
+  ],
+  "comparison": [
+    {
+      "dataset": "KIT-ML",
+      "sequences": 3900,
+      "hours": 11.2,
+      "textDiv": "1–3"
+    },
+    {
+      "dataset": "BABEL",
+      "sequences": 13000,
+      "hours": 43.5,
+      "textDiv": "1"
+    },
+    {
+      "dataset": "HumanML3D",
+      "sequences": 15000,
+      "hours": 28.6,
+      "textDiv": "1–3"
+    },
+    {
+      "dataset": "SnapMoGen",
+      "sequences": 20000,
+      "hours": 43.7,
+      "textDiv": "6"
+    },
+    {
+      "dataset": "Motion-X",
+      "sequences": 48600,
+      "hours": 86,
+      "textDiv": "1"
+    },
+    {
+      "dataset": "Motion-X++",
+      "sequences": 39400,
+      "hours": 59,
+      "textDiv": "1"
+    },
+    {
+      "dataset": "MotionMillion",
+      "sequences": 560000,
+      "hours": 726.5,
+      "textDiv": ">20"
+    },
+    {
+      "dataset": "RoMo (ours)",
+      "sequences": 820000,
+      "hours": 1237.8,
+      "textDiv": "5",
+      "ours": true
+    }
+  ]
+}
