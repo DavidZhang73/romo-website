@@ -100,23 +100,35 @@ body { -webkit-font-smoothing: antialiased; }
 .chip-more.open svg { transform: rotate(180deg); }
 
 .motion-card {
+  display: flex; flex-direction: column; height: 100%;
   background: #fff; border: 1px solid #e7e8ee; border-radius: 1.1rem; overflow: hidden;
   box-shadow: 0 1px 2px rgba(16,18,40,.04), 0 8px 24px rgba(16,18,40,.05);
   transition: transform .2s, box-shadow .2s;
 }
 .motion-card:hover { transform: translateY(-3px); box-shadow: 0 8px 30px rgba(16,18,40,.10); }
-.motion-stage { position: relative; width: 100%; height: 280px; background: linear-gradient(180deg,#fbfcfe,#eef0f6); }
+.motion-stage { position: relative; width: 100%; height: 280px; flex: 0 0 auto; background: linear-gradient(180deg,#fbfcfe,#eef0f6); }
 .motion-stage canvas { display: block; width: 100% !important; height: 100% !important; cursor: grab; touch-action: pan-y; }
 .motion-stage canvas:active { cursor: grabbing; }
-.motion-meta { padding: .9rem 1rem 1.1rem; }
-.motion-tags { display: flex; gap: .4rem; flex-wrap: wrap; margin-bottom: .5rem; }
+.motion-meta { display: flex; flex-direction: column; flex: 1 1 auto; padding: .9rem 1rem 1.1rem; }
+.motion-tags {
+  display: grid; grid-template-rows: repeat(3, 1.22rem); align-content: start;
+  gap: .26rem; height: 4.16rem; margin-bottom: .65rem; overflow: hidden;
+}
+.motion-tax-row {
+  display: grid; grid-template-columns: 5.9rem minmax(0, 1fr); align-items: center; gap: .5rem;
+}
+.motion-tax-label {
+  color: #8b8f9c; font-size: .62rem; font-weight: 800; letter-spacing: .04em;
+  line-height: 1; text-align: left; text-transform: uppercase; white-space: nowrap;
+}
 .motion-tag  { font-size: .68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
-  padding: .15rem .5rem; border-radius: 6px; background: #eef1ff; color: #454ccf; }
+  justify-self: end; min-width: 0; max-width: 100%; width: fit-content; padding: .15rem .5rem; border-radius: 6px;
+  background: #eef1ff; color: #454ccf; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .motion-tag.sub { background: #fff1ee; color: #c4564a; }
 .motion-tag.act { background: #eafaf1; color: #1f8a5b; }
 .motion-cap  { font-size: .9rem; color: #3a3a44; line-height: 1.45; min-height: 3.9em;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-.cap-dots { display: flex; gap: .35rem; margin-top: .6rem; }
+.cap-dots { display: flex; gap: .35rem; margin-top: auto; padding-top: .75rem; justify-content: center; }
 .cap-dot { width: 6px; height: 6px; padding: 0; border: none; border-radius: 50%;
   background: #d4d7e0; cursor: pointer; transition: background .2s, transform .2s; }
 .cap-dot:hover { transform: scale(1.3); }

@@ -150,7 +150,6 @@
   const pageSize = () => (window.matchMedia("(min-width:1024px)").matches ? 6 : 4);
   let allMotions = [], vObserver, curList = [], curPage = 0;
   const activeViewers = new Set();   // mounted viewers; disposed on every page change
-  const capTimers = new Set();       // caption-carousel intervals; cleared on page change
   let rafId = null;
 
   // One shared render loop ticks every mounted viewer (only visible ones draw).
@@ -290,9 +289,13 @@
   }
 
   function initGallery() {
-    Promise.all([load("static/data/motions.json"), loadThree()]).then(([motions]) => {
+    Promise.all([load("static/data/motions.json"), loadTaxonomy(), loadThree()]).then(([motions, tax]) => {
       allMotions = motions;
-      const cats = ["All", ...[...new Set(motions.map((m) => m.category))].sort()];
+      const motionCats = new Set(motions.map((m) => m.category));
+      const categoryCounts = new Map((tax.categories || []).map((c) => [c.name, c.count]));
+      const cats = ["All", ...[...motionCats].sort((a, b) =>
+        (categoryCounts.get(b) || 0) - (categoryCounts.get(a) || 0) || a.localeCompare(b)
+      )];
       const filters = $("#gallery-filters");
       cats.forEach((c, i) => {
         const b = document.createElement("button");
@@ -343,7 +346,6 @@
   function disposeViewers() {
     activeViewers.forEach((v) => { vObserver.unobserve(v.el); v.dispose(); });
     activeViewers.clear();
-    capTimers.forEach(clearInterval); capTimers.clear();
   }
   function renderPage() {
     const grid = $("#gallery-grid"), empty = $("#gallery-empty");
@@ -391,26 +393,31 @@
     meta.className = "motion-meta";
     meta.innerHTML = `
       <div class="motion-tags">
-        <span class="motion-tag">${esc(m.category)}</span>
-        ${m.subcategory ? `<span class="motion-tag sub">${esc(m.subcategory)}</span>` : ""}
-        ${m.atomicAction ? `<span class="motion-tag act">${esc(m.atomicAction)}</span>` : ""}
+        <div class="motion-tax-row">
+          <span class="motion-tax-label">Category</span>
+          <span class="motion-tag">${esc(m.category || "")}</span>
+        </div>
+        <div class="motion-tax-row">
+          <span class="motion-tax-label">SubCategory</span>
+          <span class="motion-tag sub">${esc(m.subcategory || "")}</span>
+        </div>
+        <div class="motion-tax-row">
+          <span class="motion-tax-label">Atomic Action</span>
+          <span class="motion-tag act">${esc(m.atomicAction || "")}</span>
+        </div>
       </div>
       <p class="motion-cap">${esc(caps[0] || "")}</p>
       ${caps.length > 1 ? `<div class="cap-dots">${caps.map((_, i) =>
         `<button class="cap-dot${i === 0 ? " active" : ""}" data-i="${i}" aria-label="Caption ${i + 1}"></button>`).join("")}</div>` : ""}`;
     el.appendChild(meta);
 
-    // 5-caption carousel: clickable dots + gentle auto-rotate (#3).
+    // 5-caption selector: clickable dots, no auto-rotation.
     if (caps.length > 1) {
       const capEl = $(".motion-cap", meta), dots = $$(".cap-dot", meta);
-      let ci = 0, timer;
+      let ci = 0;
       const show = (i) => { ci = (i + caps.length) % caps.length; capEl.textContent = caps[ci];
         dots.forEach((d, j) => d.classList.toggle("active", j === ci)); };
-      const reset = () => { clearInterval(timer); timer = setInterval(() => show(ci + 1), 4500); capTimers.add(timer); };
-      dots.forEach((d) => d.onclick = () => { show(+d.dataset.i); reset(); });
-      meta.addEventListener("mouseenter", () => clearInterval(timer));
-      meta.addEventListener("mouseleave", reset);
-      reset();
+      dots.forEach((d) => d.onclick = () => show(+d.dataset.i));
     }
     viewer.el._viewer = viewer;
     activeViewers.add(viewer);
