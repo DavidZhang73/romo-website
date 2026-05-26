@@ -127,10 +127,19 @@
         <a href="#toolbox"  class="nav-link hover:text-ink transition">Toolbox</a>
         <a href="#bibtex"   class="nav-link hover:text-ink transition">BibTeX</a>
       </div>
-      <a href="#" onclick="return false" aria-disabled="true"
-         class="text-sm font-semibold px-4 py-2 rounded-full bg-ink text-white/95 hover:bg-brand-600 transition shadow-soft">
-        <i class="ai ai-arxiv"></i> Paper
-      </a>
+      <div class="dropdown dropdown-nav">
+        <button class="btn-pill btn-ghost" id="nav-hf-btn" aria-haspopup="true" aria-expanded="false">
+          🤗 Dataset <i class="fas fa-chevron-down text-xs opacity-60"></i>
+        </button>
+        <div class="dropdown-menu" id="nav-hf-menu" role="menu">
+          <a class="dropdown-item" role="menuitem" target="_blank" rel="noopener" href="https://huggingface.co/datasets/RoMoDataset/RoMo-SMPLX">
+            <span class="di-title">RoMo-SMPLX</span><span class="di-sub">SMPL-X parameters</span></a>
+          <a class="dropdown-item" role="menuitem" target="_blank" rel="noopener" href="https://huggingface.co/datasets/RoMoDataset/RoMo-HML-272">
+            <span class="di-title">RoMo-HML-272</span><span class="di-sub">HumanML3D · 272-dim</span></a>
+          <a class="dropdown-item" role="menuitem" target="_blank" rel="noopener" href="https://huggingface.co/datasets/RoMoDataset/RoMo-HML-263">
+            <span class="di-title">RoMo-HML-263</span><span class="di-sub">HumanML3D · 263-dim</span></a>
+        </div>
+      </div>
     </nav>
   </header>
 

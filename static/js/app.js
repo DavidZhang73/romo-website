@@ -619,13 +619,33 @@
     setActive(0);
   }
 
-  // ── Dropdown (HuggingFace) ─────────────────────────────
+  // ── Dropdowns (HuggingFace datasets) ───────────────────
   function initDropdown() {
-    const dd = $("#hf-btn") && $("#hf-btn").closest(".dropdown");
-    if (!dd) return;
-    const btn = $("#hf-btn");
-    btn.onclick = (e) => { e.stopPropagation(); const open = dd.classList.toggle("open"); btn.setAttribute("aria-expanded", open); };
-    document.addEventListener("click", () => { dd.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); });
+    const dropdowns = $$(".dropdown");
+    if (!dropdowns.length) return;
+    const closeAll = () => {
+      dropdowns.forEach((dd) => {
+        dd.classList.remove("open");
+        const btn = $("button", dd);
+        if (btn) btn.setAttribute("aria-expanded", "false");
+      });
+    };
+    dropdowns.forEach((dd) => {
+      const btn = $("button", dd);
+      if (!btn) return;
+      btn.onclick = (e) => {
+        e.stopPropagation();
+        const open = dd.classList.toggle("open");
+        btn.setAttribute("aria-expanded", open);
+        dropdowns.forEach((other) => {
+          if (other === dd) return;
+          other.classList.remove("open");
+          const otherBtn = $("button", other);
+          if (otherBtn) otherBtn.setAttribute("aria-expanded", "false");
+        });
+      };
+    });
+    document.addEventListener("click", closeAll);
   }
 
   // ── boot ───────────────────────────────────────────────

@@ -54,6 +54,8 @@ body { -webkit-font-smoothing: antialiased; }
   opacity: 0; visibility: hidden; transition: opacity .16s, transform .16s; text-align: left;
 }
 .dropdown.open .dropdown-menu { opacity: 1; visibility: visible; transform: translateX(-50%) translateY(0); }
+.dropdown-nav .dropdown-menu { left: auto; right: 0; transform: translateY(-6px); }
+.dropdown-nav.open .dropdown-menu { transform: translateY(0); }
 .dropdown-item { display: flex; flex-direction: column; padding: .55rem .7rem; border-radius: .7rem; transition: background .12s; }
 .dropdown-item:hover { background: #f5f6f9; }
 .di-title { font-weight: 700; font-size: .92rem; color: #15151a; }
