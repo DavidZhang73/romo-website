@@ -7,10 +7,6 @@
    width="2100"
    height="816"
    viewBox="0 0 2100 816"
-   sodipodi:docname="teaser.svg"
-   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -825,39 +821,9 @@
          id="path856" />
     </clipPath>
   </defs>
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.64779583"
-     inkscape:cx="1332.9817"
-     inkscape:cy="408.30766"
-     inkscape:window-width="2560"
-     inkscape:window-height="1294"
-     inkscape:window-x="1512"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
-     inkscape:clip-to-page="true">
-    <inkscape:page
-       x="0"
-       y="0"
-       inkscape:label="1"
-       id="page1"
-       width="2100"
-       height="816"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
+  <rect x="0" y="0" width="2100" height="816" fill="#ffffff"/>
   <g
-     id="g1"
-     inkscape:groupmode="layer"
-     inkscape:label="1">
+     id="g1">
     <g
        id="g2">
       <path
@@ -7022,14 +6988,12 @@
       </g>
       <g
          id="g845">
-        <text
+        <path
+           
+           d="M 3.8079844,0 V -85.923751 H 30.170953 q 6.590743,0 9.959344,3.026859 3.368602,2.97804 4.491469,8.397094 1.171688,5.370235 1.171688,12.644461 0,7.030125 -1.806352,11.228672 -1.757531,4.198547 -6.688383,5.809618 4.052086,0.829945 5.663156,4.052086 1.659891,3.17332 1.659891,8.250632 V 0 H 27.681118 v -33.637196 q 0,-3.759164 -1.562251,-4.637929 -1.513429,-0.927586 -4.930851,-0.927586 V 0 Z M 21.285656,-54.092907 h 4.149727 q 3.563883,0 3.563883,-7.76243 0,-5.028492 -0.781125,-6.590742 -0.781125,-1.56225 -2.929219,-1.56225 H 21.285656 Z M 72.449343,0.78112501 q -21.8715,0 -21.8715,-22.70144601 v -29.389828 q 0,-10.349906 5.809617,-16.501266 5.809618,-6.20018 16.061883,-6.20018 10.301087,0 16.110704,6.20018 5.809617,6.15136 5.809617,16.501266 v 29.389828 q 0,22.70144601 -21.920321,22.70144601 z m 0,-13.47440601 q 2.196915,0 3.1245,-1.56225 0.976407,-1.611071 0.976407,-4.052086 v -35.78529 q 0,-6.395461 -4.100907,-6.395461 -4.100906,0 -4.100906,6.395461 v 35.78529 q 0,2.441015 0.927586,4.052086 0.976406,1.56225 3.17332,1.56225 z M 101.10687,0 v -85.923751 h 26.16768 l 7.22541,52.384196 7.17659,-52.384196 h 26.41179 V 0 H 152.36819 V -61.904157 L 142.50649,0 H 127.07927 L 116.63173,-61.904157 V 0 Z m 95.59017,0.78112501 q -21.8715,0 -21.8715,-22.70144601 v -29.389828 q 0,-10.349906 5.80961,-16.501266 5.80962,-6.20018 16.06189,-6.20018 10.30108,0 16.1107,6.20018 5.80962,6.15136 5.80962,16.501266 v 29.389828 q 0,22.70144601 -21.92032,22.70144601 z m 0,-13.47440601 q 2.19691,0 3.1245,-1.56225 0.9764,-1.611071 0.9764,-4.052086 v -35.78529 q 0,-6.395461 -4.1009,-6.395461 -4.10091,0 -4.10091,6.395461 v 35.78529 q 0,2.441015 0.92759,4.052086 0.9764,1.56225 3.17332,1.56225 z"
            id="text845"
-           xml:space="preserve"
-           transform="matrix(1.3333333,0,0,1.3333333,816.32,453.05333)"><tspan
-             id="tspan845"
-             style="font-variant:normal;font-weight:normal;font-size:99.984px;font-family:Anton;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">RoMo</tspan></text>
+           transform="matrix(1.3333333,0,0,1.3333333,816.32,453.05333)"
+           aria-label="RoMo" />
       </g>
     </g>
     <g
