@@ -44,6 +44,20 @@ body { -webkit-font-smoothing: antialiased; }
 .btn-dark:hover  { background: #5560f0; transform: translateY(-1px); }
 .btn-ghost { background: #fff; color: #15151a; border: 1px solid #e7e8ee; box-shadow: 0 1px 2px rgba(16,18,40,.04); }
 .btn-ghost:hover { border-color: #a3b1ff; transform: translateY(-1px); }
+.btn-pill:disabled,
+.btn-pill.is-disabled {
+  opacity: .45;
+  cursor: no-drop;
+  transform: none;
+}
+.btn-pill:disabled:hover,
+.btn-pill.is-disabled:hover {
+  border-color: #e7e8ee;
+  transform: none;
+}
+.btn-pill.is-disabled {
+  pointer-events: auto;
+}
 
 /* ── Dropdown (HuggingFace datasets) ─────────────────── */
 .dropdown { position: relative; }
