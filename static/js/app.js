@@ -550,6 +550,29 @@
         hovertemplate: "%{hovertext}<extra></extra>",
       }], { ...baseLayout, margin: { l: 10, r: 10, t: 20, b: 20 }, showlegend: false }, cfg);
     }).catch(() => { $("#chart-comparison").innerHTML = errBox("stats data missing"); });
+
+    // Semantic-diversity t-SNE scatter (one WebGL trace per dataset group)
+    Promise.all([load("static/data/tsne.json"), loadPlotly()]).then(([t]) => {
+      const groupColors = ["#eb7f75", "#7cb5e2", "#86d4a6"]; // RoMo / MotionMillion / HumanML3D
+      const xs = t.labels.map(() => []), ys = t.labels.map(() => []);
+      for (const [x, y, g] of t.points) { xs[g].push(x); ys[g].push(y); }
+      const traces = t.labels.map((name, g) => ({
+        type: "scattergl", mode: "markers", name: name,
+        x: xs[g], y: ys[g],
+        marker: { size: 4, color: groupColors[g], opacity: 0.7, line: { width: 0 } },
+        hoverinfo: "name",
+      }));
+      // Crop to the notebook's view (In[195] xyrange); constrain:"domain" + scaleanchor
+      // keeps true data aspect (no horizontal shear) by letterboxing the plot area.
+      const noAxis = { showgrid: false, zeroline: false, showticklabels: false, ticks: "", showline: false };
+      window.Plotly.newPlot("chart-tsne", traces, { ...baseLayout,
+        margin: { l: 10, r: 190, t: 10, b: 10 },
+        xaxis: { ...noAxis, range: [-110, 115], fixedrange: true, constrain: "domain" },
+        yaxis: { ...noAxis, range: [-110, 100], fixedrange: true, constrain: "domain",
+                 scaleanchor: "x", scaleratio: 1 },
+        legend: { orientation: "v", x: 1.02, xanchor: "left", y: 0.5, yanchor: "middle",
+                  itemsizing: "constant", font: { size: 13 } } }, cfg);
+    }).catch(() => { $("#chart-tsne").innerHTML = errBox("tsne.json missing"); });
   }
 
   // ── helpers ────────────────────────────────────────────

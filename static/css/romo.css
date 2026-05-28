@@ -205,6 +205,7 @@ body { -webkit-font-smoothing: antialiased; }
 .chart-toggle-btn { min-width: 5.5rem; height: 2rem; padding: 0 .75rem; border: 0; border-radius: 9999px; background: transparent; color: #6b6b76; font-size: .78rem; font-weight: 700; cursor: pointer; transition: background .15s, color .15s, box-shadow .15s; }
 .chart-toggle-btn.active { background: #15151a; color: #fff; box-shadow: 0 1px 2px rgba(16,18,40,.08); }
 .chart { width: 100%; height: 380px; }
+#chart-tsne { height: 560px; }
 .chart-note { margin-top: .5rem; font-size: .75rem; color: #9aa0ad; }
 @media (max-width: 640px) {
   .chart-head { align-items: flex-start; flex-direction: column; gap: .6rem; }
